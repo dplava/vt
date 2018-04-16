@@ -1,0 +1,25 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu/
+dplava.xsd">
+    <dcterms:identifier>SQI_PO_00013</dcterms:identifier>
+    <dcterms:title>New River Valley Symphony</dcterms:title>
+    <dcterms:description>Production poster for New River Valley Symphony. Programs include Water
+        Music | Horn Concerto No. 1 | Concertpiece for Four Horns, Op. 68 | Finale, Symphony No. 1,
+        D major ("Titan")</dcterms:description>
+    <dcterms:subject>Symphonies</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:created>1993-02-27</dcterms:created>
+    <dcterms:type>image</dcterms:type>
+    <dcterms:isPartOf>Squires Theatre Archives</dcterms:isPartOf>
+    <dcterms:spatial>Blacksburg, Montgomery county, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>posters</dcterms:medium>
+    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/page/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Tech University Libraries</dcterms:provenance>
+    <edm:isShownAt>http://di.lib.vt.edu/items/show/19</edm:isShownAt>
+    <edm:preview>http://di.lib.vt.edu/files/square_thumbnails/2/SQI_PO_00013/SQI_PO_00013_001.jpg</edm:preview>
+</mdRecord>
