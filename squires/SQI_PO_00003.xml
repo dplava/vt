@@ -1,26 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mdRecord xmlns="http://dplava.lib.virginia.edu" 
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
-    xsi:schemaLocation="http://dplava.lib.virginia.edu 
-    dplava.xsd">
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
     <dcterms:identifier>SQI_PO_00003</dcterms:identifier>
     <dcterms:title>Mirkwood Marionettes</dcterms:title>
     <dcterms:description>Production poster for Mirkwood Marionettes.</dcterms:description>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:contributor>The Maroon Mask</dcterms:contributor>
+    <dcterms:contributor>Maroon Mask</dcterms:contributor>
     <dcterms:contributor>American Association of University Women</dcterms:contributor>
-    <dcterms:subject>Theaters</dcterms:subject>
+    <dcterms:subject>Theater</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
     <dcterms:type>image</dcterms:type>
-    <dcterms:isPartOf>Squires Theatre Archives</dcterms:isPartOf>
+    <dcterms:isPartOf>Squires Theatre Posters</dcterms:isPartOf>
     <dcterms:spatial>Blacksburg, Montgomery county, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
     <dcterms:format>image/jpeg</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
-    <dcterms:provenance>Virginia Tech University Libraries</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
     <edm:isShownAt>http://di.lib.vt.edu/items/show/9</edm:isShownAt>
     <edm:preview>http://di.lib.vt.edu/files/square_thumbnails/2/SQI_PO_00003/SQI_PO_00003_001.jpg</edm:preview>
 </mdRecord>
