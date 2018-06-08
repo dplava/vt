@@ -1,0 +1,45 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>LJC_140_012</dcterms:identifier>
+    <dcterms:title>Kasuga-taisha Shrine, Nara</dcterms:title>
+    <dcterms:creator>Currie,
+Leonard
+J.
+(Leonard
+James),
+1913-1996
+(Photographer)</dcterms:creator>
+    <dcterms:subject>Japanese</dcterms:subject>
+    <dcterms:subject>works
+of
+art</dcterms:subject>
+    <dcterms:subject>landscape
+gardening</dcterms:subject>
+    <dcterms:subject>religious
+complexes</dcterms:subject>
+    <dcterms:subject>Leonard
+J.
+Currie
+Slides</dcterms:subject>
+    <dcterms:subject>Asia</dcterms:subject>
+    <dcterms:subject>Japan</dcterms:subject>
+    <dcterms:created>1972-09 (photo taken)</dcterms:created>
+    <dcterms:spatial>Nara,
+Nara,
+Kinki,
+Japan</dcterms:spatial>
+    <dcterms:medium>color slides</dcterms:medium>
+    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries.
+        Special Collections Department (Repository)</dcterms:provenance>
+    <edm:isShownAt>http://di.lib.vt.edu/items/show/119</edm:isShownAt>
+    <edm:preview>http://di.lib.vt.edu/files/square_thumbnails/4/LJC_140_012/LJC_140_012.jpg</edm:preview>
+</mdRecord>
