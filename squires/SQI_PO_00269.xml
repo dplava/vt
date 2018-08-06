@@ -1,0 +1,24 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>SQI_PO_00269</dcterms:identifier>
+    <dcterms:title>Roar of the Greasepaint - The Smell of the Crowd Jan 17</dcterms:title>
+    <dcterms:description>Production poster for Roar of the Greasepaint - The Smell of the Crowd Jan
+        17.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:subject>Theater</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>image</dcterms:type>
+    <dcterms:isPartOf>Squires Theatre Posters</dcterms:isPartOf>
+    <dcterms:spatial>Blacksburg, Montgomery county, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>posters</dcterms:medium>
+    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>http://di.lib.vt.edu/items/show/366</edm:isShownAt>
+    <edm:preview>http://di.lib.vt.edu/files/square_thumbnails/2/SQI_PO_00269/SQI_PO_00269_001.jpg</edm:preview>
+</mdRecord>

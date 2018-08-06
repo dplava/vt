@@ -1,0 +1,29 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>SQI_PO_00227</dcterms:identifier>
+    <dcterms:title>Theatre Arts at Virginia Tech 2007-08 Season</dcterms:title>
+    <dcterms:description>Production poster for Theatre Arts at Virginia Tech 2007-08 Season. Dr.
+        Arlecchino, or the Imaginary Autopsy by Marco Luly | Eurydice by Sarah Ruhl | Abingdon
+        Square by Marie Irene Fornes | My Blue Peninsula, or Lightning at Our Feet by Michael Gordon
+        - Ridge Theater.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:contributor>Virginia Polytechnic Institute and State University. Theatre Arts -
+        University Theatre</dcterms:contributor>
+    <dcterms:subject>Theater</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:created>2007-09-27/2008-04-25</dcterms:created>
+    <dcterms:type>image</dcterms:type>
+    <dcterms:isPartOf>Squires Theatre Posters</dcterms:isPartOf>
+    <dcterms:spatial>Blacksburg, Montgomery county, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>posters</dcterms:medium>
+    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>http://di.lib.vt.edu/items/show/334</edm:isShownAt>
+    <edm:preview>http://di.lib.vt.edu/files/square_thumbnails/2/SQI_PO_00227/SQI_PO_00227_001.jpg</edm:preview>
+</mdRecord>
