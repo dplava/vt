@@ -4,15 +4,16 @@
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu
 dplava.xsd">
-    <dcterms:identifier>SQI_PO_00009</dcterms:identifier>
-    <dcterms:title>Boy Friend</dcterms:title>
-    <dcterms:description>Production poster for Boy Friend.</dcterms:description>
+    <dcterms:identifier>SQI_PO_00085</dcterms:identifier>
+    <dcterms:title>New River Valley Symphony Fall Concert</dcterms:title>
+    <dcterms:description>Production poster for New River Valley Symphony Fall Concert. Featured
+        Soloist: David Widder, Clarinet. Programs: Don Giovanni Overture, Wolfgang Amadeus Mozart |
+        Variations for Clarinet and Orchestra, Gioacchino Rossini | Premiere Rhapsodie, Claude
+        Debussy | Symphony No. 2, Howard Hanson.</dcterms:description>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:contributor>Virginia Polytechnic Institute and State University. Theatre Arts -
-        University Theatre</dcterms:contributor>
-    <dcterms:contributor>Music Theatre International</dcterms:contributor>
-    <dcterms:subject>Theater</dcterms:subject>
+    <dcterms:subject>Concerts</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:created>1993-11-06</dcterms:created>
     <dcterms:type>image</dcterms:type>
     <dcterms:isPartOf>Squires Theatre Posters</dcterms:isPartOf>
     <dcterms:spatial>Blacksburg, Montgomery county, Virginia, United States</dcterms:spatial>
@@ -21,6 +22,6 @@ dplava.xsd">
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University
         Libraries</dcterms:provenance>
-    <edm:isShownAt>http://di.lib.vt.edu/items/show/15</edm:isShownAt>
-    <edm:preview>http://di.lib.vt.edu/files/square_thumbnails/2/SQI_PO_00009/SQI_PO_00009_001.jpg</edm:preview>
+    <edm:isShownAt>http://di.lib.vt.edu/items/show/228</edm:isShownAt>
+    <edm:preview>http://di.lib.vt.edu/files/square_thumbnails/2/SQI_PO_00085/SQI_PO_00085_001.jpg</edm:preview>
 </mdRecord>
