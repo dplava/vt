@@ -14,18 +14,17 @@ dplava.xsd">
     <dcterms:subject>entrances</dcterms:subject>
     <dcterms:subject>porches</dcterms:subject>
     <dcterms:subject>religious complexes</dcterms:subject>
-    <dcterms:subject>Leonard J. Currie Slides</dcterms:subject>
     <dcterms:subject>Asia</dcterms:subject>
     <dcterms:subject>Japan</dcterms:subject>
-    <dcterms:created>1972-09 (photo taken)</dcterms:created>
+    <dcterms:created>1972-09</dcterms:created>
+    <dcterms:isPartOf>Leonard J. Currie Slides</dcterms:isPartOf>
     <dcterms:spatial>Nara, Nara, Kinki, Japan</dcterms:spatial>
     <dcterms:medium>color slides</dcterms:medium>
     <dcterms:format>image/jpeg</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:rightsHolder>Estate of Leonard J. Currie</dcterms:rightsHolder>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University
         Libraries</dcterms:provenance>
-    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries.
-        Special Collections Department (Repository)</dcterms:provenance>
     <edm:isShownAt>http://di.lib.vt.edu/items/show/112</edm:isShownAt>
     <edm:preview>http://di.lib.vt.edu/files/square_thumbnails/4/LJC_140_005/LJC_140_005.jpg</edm:preview>
 </mdRecord>
