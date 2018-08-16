@@ -5,24 +5,25 @@
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu
 dplava.xsd">
-    <dcterms:identifier>LJC_142_015</dcterms:identifier>
-    <dcterms:title>Katsura Imperial Villa, Kyoto</dcterms:title>
+    <dcterms:identifier>LJC_141_033</dcterms:identifier>
+    <dcterms:title>Todai-ji Temple, Nara</dcterms:title>
     <dcterms:creator>Currie, Leonard J. (Leonard James), 1913-1996 (Photographer)</dcterms:creator>
     <dcterms:subject>Japanese</dcterms:subject>
-    <dcterms:subject>landscape gardening</dcterms:subject>
-    <dcterms:subject>palaces</dcterms:subject>
-    <dcterms:subject>palace complexes</dcterms:subject>
+    <dcterms:subject>interior views</dcterms:subject>
+    <dcterms:subject>religious buildings</dcterms:subject>
+    <dcterms:subject>works of art</dcterms:subject>
+    <dcterms:subject>religious complexes</dcterms:subject>
     <dcterms:subject>Asia</dcterms:subject>
     <dcterms:subject>Japan</dcterms:subject>
     <dcterms:created>1972-09</dcterms:created>
     <dcterms:isPartOf>Leonard J. Currie Slides</dcterms:isPartOf>
-    <dcterms:spatial>Kyoto, Kyōto, Kinki, Japan</dcterms:spatial>
+    <dcterms:spatial>Nara, Nara, Kinki, Japan</dcterms:spatial>
     <dcterms:medium>color slides</dcterms:medium>
     <dcterms:format>image/jpeg</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:rightsHolder>Estate of Leonard J. Currie</dcterms:rightsHolder>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University
         Libraries</dcterms:provenance>
-    <edm:isShownAt>http://di.lib.vt.edu/items/show/194</edm:isShownAt>
-    <edm:preview>http://di.lib.vt.edu/files/square_thumbnails/4/LJC_142_015/LJC_142_015.jpg</edm:preview>
+    <edm:isShownAt>http://di.lib.vt.edu/items/show/177</edm:isShownAt>
+    <edm:preview>http://di.lib.vt.edu/files/square_thumbnails/4/LJC_141_033/LJC_141_033.jpg</edm:preview>
 </mdRecord>
