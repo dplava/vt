@@ -16,9 +16,11 @@ dplava.xsd">
     <dcterms:subject>South America</dcterms:subject>
     <dcterms:subject>Colombia</dcterms:subject>
     <dcterms:created>1977-12</dcterms:created>
+    <dcterms:isPartOf>Leonard J. Currie Slides</dcterms:isPartOf>
     <dcterms:spatial>Bogotá, Bogotá, Distrito Capital de, Colombia</dcterms:spatial>
     <dcterms:medium>color slides</dcterms:medium>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:rightsHolder>Estate of Leonard J. Currie</dcterms:rightsHolder>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University
         Libraries</dcterms:provenance>
     <edm:isShownAt>http://di.lib.vt.edu/items/show/588</edm:isShownAt>
