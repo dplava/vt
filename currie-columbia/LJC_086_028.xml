@@ -1,0 +1,31 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>LJC_086_028</dcterms:identifier>
+    <dcterms:title>Laguna de Tota</dcterms:title>
+    <dcterms:creator>Currie, Leonard J. (Leonard James), 1913-1996 (Photographer)</dcterms:creator>
+    <dcterms:subject>Colombian</dcterms:subject>
+    <dcterms:subject>beaches</dcterms:subject>
+    <dcterms:subject>genre (visual works)</dcterms:subject>
+    <dcterms:subject>landscapes (environments)</dcterms:subject>
+    <dcterms:subject>waterways</dcterms:subject>
+    <dcterms:subject>lakes (bodies of water)</dcterms:subject>
+    <dcterms:subject>Leonard J. Currie Slides</dcterms:subject>
+    <dcterms:subject>South America</dcterms:subject>
+    <dcterms:subject>Colombia</dcterms:subject>
+    <dcterms:created>1953-01</dcterms:created>
+    <dcterms:isPartOf>Leonard J. Currie Slides</dcterms:isPartOf>
+    <dcterms:spatial>Colombia</dcterms:spatial>
+    <dcterms:spatial>5.542708,-72.923387</dcterms:spatial>
+    <dcterms:medium>color slides</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:rightsHolder>Estate of Leonard J. Currie</dcterms:rightsHolder>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>http://di.lib.vt.edu/items/show/496</edm:isShownAt>
+    <edm:preview>http://di.lib.vt.edu/files/square_thumbnails/Leonard_J._Currie_s_Slides_Collection/LJC_086_028/LJC_086_028.jpg</edm:preview>
+</mdRecord>
