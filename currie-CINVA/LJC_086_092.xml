@@ -1,0 +1,27 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>LJC_086_092</dcterms:identifier>
+    <dcterms:title>CINVA Lab (Inter-American Housing and Planning Center), Bogotá</dcterms:title>
+    <dcterms:creator>Fisher, H. (Photographer)</dcterms:creator>
+    <dcterms:subject>Colombian</dcterms:subject>
+    <dcterms:subject>CINVA (Inter-American Housing and Planning Center)</dcterms:subject>
+    <dcterms:subject>studios (work spaces)</dcterms:subject>
+    <dcterms:subject>interior views</dcterms:subject>
+    <dcterms:subject>university and college buildings</dcterms:subject>
+    <dcterms:subject>Currie Projects</dcterms:subject>
+    <dcterms:subject>CINVA</dcterms:subject>
+    <dcterms:created>1952</dcterms:created>
+    <dcterms:isPartOf>Leonard J. Currie Slides</dcterms:isPartOf>
+    <dcterms:medium>color slides</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:rightsHolder>Estate of Leonard J. Currie</dcterms:rightsHolder>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>http://di.lib.vt.edu/items/show/693</edm:isShownAt>
+    <edm:preview>http://di.lib.vt.edu/files/square_thumbnails/Leonard_J._Currie_s_Slides_Collection/LJC_086_092/LJC_086_092.jpg</edm:preview>
+</mdRecord>
