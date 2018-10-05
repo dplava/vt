@@ -1,0 +1,25 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>CRW_CRW_000001</dcterms:identifier>
+    <dcterms:title>Minutes of the Crewe Town Council 1894-1900</dcterms:title>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:creator>Town of Crewe</dcterms:creator>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Railroads</dcterms:subject>
+    <dcterms:created>1894/1900</dcterms:created>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:isPartOf>Minutes of the Crewe Town Council</dcterms:isPartOf>
+    <dcterms:spatial>Crewe, Nottoway county, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>government records</dcterms:medium>
+    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>http://di.lib.vt.edu/items/show/712</edm:isShownAt>
+    <edm:preview>http://di.lib.vt.edu/files/square_thumbnails/8/CRW_CRW_000001/CRW_CRW_000001_0001.jpg</edm:preview>
+</mdRecord>
