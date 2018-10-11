@@ -1,0 +1,29 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>BTR_BTR_000019</dcterms:identifier>
+    <dcterms:title>Dad, Poor Dad, Mother's Hung you in the Closet and I'm Feelin' so
+        Sad</dcterms:title>
+    <dcterms:description>Production poster for Dad, Poor Dad, Mother's Hung you in the Closet and
+        I'm Feelin' So Sad. Robert Porterfield Opens the 32nd Season of the Barter Theatre, the
+        State Theatre of Virginia, Abingdon, Virginia.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
+    <dcterms:subject>Theater</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:isPartOf>Barter Theatre Archives</dcterms:isPartOf>
+    <dcterms:spatial>Abingdon, Washington county, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>posters</dcterms:medium>
+    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>http://di.lib.vt.edu/items/show/405</edm:isShownAt>
+    <edm:preview>http://di.lib.vt.edu/files/square_thumbnails/1/BTR_BTR_000019/BTR_BTR_000019_0001.jpg</edm:preview>
+</mdRecord>
