@@ -1,0 +1,32 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>BTR_BTR_000135</dcterms:identifier>
+    <dcterms:title>Cyrano De Bergerac by Edmond Rostand</dcterms:title>
+    <dcterms:description>Production poster for Cyrano De Bergerac with Mitch Ryan, Diane Hill, Don
+        Linahan, Steven Phillips.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
+    <dcterms:subject>Theater</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:isPartOf>Barter Theatre Archives</dcterms:isPartOf>
+    <dcterms:spatial>Abingdon, Washington county, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>posters</dcterms:medium>
+    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:rights>The original object is the property of the Barter Theatre in Abingdon, VA
+        (https://www.bartertheatre.com/). This digital surrogate is made publicly available by the
+        Barter Theatre for use in research, teaching, private study, and other educational purposes.
+        Responsibility for any use of these materials rests exclusively with the user. When using
+        this item, users should give proper credit to the owner of the original object as well as to
+        Virginia Tech Libraries.</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>http://di.lib.vt.edu/items/show/813</edm:isShownAt>
+    <edm:preview>http://di.lib.vt.edu/files/square_thumbnails/1/BTR_BTR_000135/BTR_BTR_000135_0001.jpg</edm:preview>
+</mdRecord>

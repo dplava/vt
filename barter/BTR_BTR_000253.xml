@@ -1,0 +1,38 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>BTR_BTR_000253</dcterms:identifier>
+    <dcterms:title>Barter Theatre's 52nd Season, 1984 plays and calender, historic Abingdon
+        Virginia</dcterms:title>
+    <dcterms:description>Pamphlet for Barter Theatre 52nd Season with production information for
+        plays: Tintypes by Mary Kyte with Mel Marvin and Gary Pearle| Crimes of the Heart by Beth
+        Henley| The Good Doctor by Neil Simon| Artichoke by Joanna M. Glass| Mass Appeal by Bill C.
+        Davis| Promenade, All! by David V. Robison| Bell, Book and Candle by John Van Druten.
+        Pamphlet includes a calender for the plays performed on April thru Oct. 1984. It also
+        includes information about history of Abingdon, Va and The Barter
+        Theatre.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
+    <dcterms:subject>Theater</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:isPartOf>Barter Theatre Archives</dcterms:isPartOf>
+    <dcterms:spatial>Abingdon, Washington county, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>broadsheet (format)</dcterms:medium>
+    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:rights>The original object is the property of the Barter Theatre in Abingdon, VA
+        (https://www.bartertheatre.com/). This digital surrogate is made publicly available by the
+        Barter Theatre for use in research, teaching, private study, and other educational purposes.
+        Responsibility for any use of these materials rests exclusively with the user. When using
+        this item, users should give proper credit to the owner of the original object as well as to
+        Virginia Tech Libraries.</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>http://di.lib.vt.edu/items/show/845</edm:isShownAt>
+    <edm:preview>http://di.lib.vt.edu/files/square_thumbnails/1/BTR_BTR_000253/BTR_BTR_000253_0001.jpg</edm:preview>
+</mdRecord>
