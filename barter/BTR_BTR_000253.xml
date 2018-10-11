@@ -25,12 +25,7 @@ dplava.xsd">
     <dcterms:medium>broadsheet (format)</dcterms:medium>
     <dcterms:format>image/jpeg</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
-    <dcterms:rights>The original object is the property of the Barter Theatre in Abingdon, VA
-        (https://www.bartertheatre.com/). This digital surrogate is made publicly available by the
-        Barter Theatre for use in research, teaching, private study, and other educational purposes.
-        Responsibility for any use of these materials rests exclusively with the user. When using
-        this item, users should give proper credit to the owner of the original object as well as to
-        Virginia Tech Libraries.</dcterms:rights>
+
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University
         Libraries</dcterms:provenance>
     <edm:isShownAt>http://di.lib.vt.edu/items/show/845</edm:isShownAt>
