@@ -21,9 +21,8 @@ dplava.xsd">
     <dcterms:medium>posters</dcterms:medium>
     <dcterms:format>image/jpeg</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
-
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University
         Libraries</dcterms:provenance>
-    <edm:isShownAt>http://di.lib.vt.edu/items/show/849</edm:isShownAt>
-    <edm:preview>http://di.lib.vt.edu/files/square_thumbnails/1/BTR_BTR_000274/BTR_BTR_000274_0001.jpg</edm:preview>
+    <edm:isShownAt>https://di.lib.vt.edu/items/show/849</edm:isShownAt>
+    <edm:preview>http://di.lib.vt.edu/files/thumbnails/1/BTR_BTR_000274/BTR_BTR_000274_0001.jpg</edm:preview>
 </mdRecord>

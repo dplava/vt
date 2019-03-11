@@ -13,15 +13,15 @@ dplava.xsd">
     <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
     <dcterms:subject>Theater</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:created>1955-06-27/1995-07-02</dcterms:created>
     <dcterms:type>Image</dcterms:type>
     <dcterms:isPartOf>Barter Theatre Archives</dcterms:isPartOf>
     <dcterms:spatial>Abingdon, Washington county, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
     <dcterms:format>image/jpeg</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
-
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University
         Libraries</dcterms:provenance>
-    <edm:isShownAt>http://di.lib.vt.edu/items/show/833</edm:isShownAt>
-    <edm:preview>http://di.lib.vt.edu/files/square_thumbnails/1/BTR_BTR_000212/BTR_BTR_000212_0001.jpg</edm:preview>
+    <edm:isShownAt>https://di.lib.vt.edu/items/show/833</edm:isShownAt>
+    <edm:preview>http://di.lib.vt.edu/files/thumbnails/1/BTR_BTR_000212/BTR_BTR_000212_0001.jpg</edm:preview>
 </mdRecord>
