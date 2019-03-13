@@ -4,7 +4,7 @@
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu
-dplava.xsd">
+    dplava.xsd">
     <dcterms:identifier>LJC_086_051</dcterms:identifier>
     <dcterms:title>CINVA patio (Inter-American Housing and Planning Center), Bogotá</dcterms:title>
     <dcterms:creator>Currie, Leonard J. (Leonard James), 1913-1996 (Photographer)</dcterms:creator>
@@ -17,12 +17,14 @@ dplava.xsd">
     <dcterms:subject>Currie Projects</dcterms:subject>
     <dcterms:subject>CINVA</dcterms:subject>
     <dcterms:created>1954-05</dcterms:created>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isPartOf>Leonard J. Currie Slides</dcterms:isPartOf>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:medium>color slides</dcterms:medium>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:rightsHolder>Estate of Leonard J. Currie</dcterms:rightsHolder>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University
         Libraries</dcterms:provenance>
-    <edm:isShownAt>http://di.lib.vt.edu/items/show/674</edm:isShownAt>
-    <edm:preview>http://di.lib.vt.edu/files/square_thumbnails/Leonard_J._Currie_s_Slides_Collection/LJC_086_051/LJC_086_051.jpg</edm:preview>
+    <edm:isShownAt>https://di.lib.vt.edu/items/show/674</edm:isShownAt>
+    <edm:preview>https://di.lib.vt.edu/files/thumbnails/Leonard_J._Currie_s_Slides_Collection/LJC_086_051/LJC_086_051.jpg</edm:preview>
 </mdRecord>

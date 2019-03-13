@@ -16,6 +16,7 @@ dplava.xsd">
     <dcterms:subject>Asia</dcterms:subject>
     <dcterms:subject>Japan</dcterms:subject>
     <dcterms:created>1972-09</dcterms:created>
+    <dcterms:type>Image</dcterms:type>
     <dcterms:isPartOf>Leonard J. Currie Slides</dcterms:isPartOf>
     <dcterms:spatial>Nara, Nara, Kinki, Japan</dcterms:spatial>
     <dcterms:medium>color slides</dcterms:medium>
@@ -24,6 +25,6 @@ dplava.xsd">
     <dcterms:rightsHolder>Estate of Leonard J. Currie</dcterms:rightsHolder>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University
         Libraries</dcterms:provenance>
-    <edm:isShownAt>http://di.lib.vt.edu/items/show/118</edm:isShownAt>
-    <edm:preview>http://di.lib.vt.edu/files/square_thumbnails/4/LJC_140_011/LJC_140_011.jpg</edm:preview>
+    <edm:isShownAt>https://di.lib.vt.edu/items/show/118</edm:isShownAt>
+    <edm:preview>https://di.lib.vt.edu/files/thumbnails/4/LJC_140_011/LJC_140_011.jpg</edm:preview>
 </mdRecord>
