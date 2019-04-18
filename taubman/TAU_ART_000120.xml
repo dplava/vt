@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>TAU_ART_000120 2003.003</dcterms:identifier>
+    <dcterms:title>Swinging on the Gate</dcterms:title>
+    <dcterms:description>Genre painter John George Brown, known as J. G., was born in Durham,
+        England and took drawing classes as a young man at the School of Design at Newcastle-on-Tyne
+        while also being apprenticed as a glass worker. in 1853, Brown immigrated to America and
+        established a studio in New York where he began to be known as a portrait painter. Brown
+        enjoyed success as a genre painter, mainly for his warmhearted depictions of young street
+        urchins and impoverished children.</dcterms:description>
+    <dcterms:creator>John George Brown (British-American, 1831-1913)</dcterms:creator>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:created>~1878/~1879</dcterms:created>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:isPartOf>Taubman Museum of Art</dcterms:isPartOf>
+    <dcterms:medium>painting (visual works)</dcterms:medium>
+    <dcterms:medium>oil</dcterms:medium>
+    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>https://di.lib.vt.edu/items/show/944</edm:isShownAt>
+    <edm:preview>http://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000120 2003.003/TAU_ART_000120
+        2003.003.jpg</edm:preview>
+</mdRecord>

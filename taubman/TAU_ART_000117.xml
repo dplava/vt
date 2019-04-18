@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>TAU_ART_000117 1986.001</dcterms:identifier>
+    <dcterms:title>Seascape</dcterms:title>
+    <dcterms:description>American painter and muralist William de Leftwich Dodge was born in
+        Bedford, Virginia and spent most of his childhood life abroad in Europe where he studied
+        painting in Paris and Berlin. Aligned with the American Impressionists, Dodge planned and
+        built Villa Francesca, a remarkable studio house overlooking Setauket bay, New York.
+        Painting en plein air (outside), Dodge captured the light , churning movement, and deep blue
+        color of the sea near his home in his painting Seascape.</dcterms:description>
+    <dcterms:creator>William de Leftwich Dodge (American, 1867-1935)</dcterms:creator>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:created>~1920</dcterms:created>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:isPartOf>Taubman Museum of Art</dcterms:isPartOf>
+    <dcterms:medium>painting (visual works)</dcterms:medium>
+    <dcterms:medium>oil</dcterms:medium>
+    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>https://di.lib.vt.edu/items/show/941</edm:isShownAt>
+    <edm:preview>http://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000117 1986.001/TAU_ART_000117
+        1986.001.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>TAU_ART_000113 2002.004</dcterms:identifier>
+    <dcterms:title>Voyage of the Polaris</dcterms:title>
+    <dcterms:description>Maritime painter William Bedford was well known for his ship portraiture
+        that employ painstaking precision, clarity and preoccupation with light. Intrigued with the
+        challenge of new artistic frontiers through scientific exploration, he traveled to the New
+        England and Canadian shores and further north into the Arctic area of the Labrador coast.
+        Voyage of the Polaris depicts the 1871 ill-fated arctic exploration vessel icebound in the
+        frozen sea of Thank-God Harbor off the coast of Greenland. En route to its final
+        destination, Captain Francis Hall died mysteriously and it was speculated that the ship's
+        doctor murdered him. Shortly thereafter, Polaris struck an iceberg. Bradford's painting
+        depicts a desperate moment of action: the 34-man crew quickly off-loading provisions to
+        lighten the ship's weight, but their efforts were unsuccessful. although the crew watched
+        from the frozen tundra as the ship capsized, all members were eventually rescued. Although
+        Bradford did not have direct experience with Polaris, he was familiar with the voyage from
+        published accounts of its expedition.</dcterms:description>
+    <dcterms:creator>William Bradford (American, 1823-1892)</dcterms:creator>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:created>1875</dcterms:created>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:isPartOf>Taubman Museum of Art</dcterms:isPartOf>
+    <dcterms:medium>painting (visual works)</dcterms:medium>
+    <dcterms:medium>oil</dcterms:medium>
+    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>https://di.lib.vt.edu/items/show/938</edm:isShownAt>
+    <edm:preview>http://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000113 2002.004/TAU_ART_000113
+        2002.004.jpg</edm:preview>
+</mdRecord>

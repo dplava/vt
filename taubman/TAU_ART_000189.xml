@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>TAU_ART_000189 2008.104</dcterms:identifier>
+    <dcterms:title>Dancer</dcterms:title>
+    <dcterms:description>Based in Roanoke, Virginia Betty Branch earned both her BA and MA in Studio
+        Art from Hollins University. her work has been the focus of numerous solo and international
+        exhibitions. Over a thirty-year period, Branch has focused on the female form and has
+        defined female rites of passage in both traditional terra cotta, earthware, and straw. she
+        looks to impressive Cycladic Greek fertility goddesses and other sources of feminine genesis
+        to form complex and substantial sculptural works that exude power and energy. Branch's
+        female forms vacillate between the lush and the lissome. In Dancer, Branch captures the
+        fluid cyclical motion of a woman's body captured in mid-dance, to the point of
+        abstraction.</dcterms:description>
+    <dcterms:creator>Betty Branch (American, Born 1934)</dcterms:creator>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:created>1989</dcterms:created>
+    <dcterms:type>Physical object</dcterms:type>
+    <dcterms:isPartOf>Taubman Museum of Art</dcterms:isPartOf>
+    <dcterms:medium>sculpture (visual works)</dcterms:medium>
+    <dcterms:medium>rosa Portuguese marble</dcterms:medium>
+    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>https://di.lib.vt.edu/items/show/967</edm:isShownAt>
+    <edm:preview>http://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000189 2008.104/TAU_ART_000189
+        2008.104.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>TAU_ART_000114 1989.001</dcterms:identifier>
+    <dcterms:title>Mr. Martin</dcterms:title>
+    <dcterms:description>Figurative painter Anne Bell was educated at the university of Georgia and
+        studied at the High Museum of Art in Atlanta. Since 1978 she has had numerous exhibitions
+        and portrait commissions. Her method in approaching her subject is unique: "I paint in a
+        realistic and sensitive style which not only portrays my subjects in a realistic fashion,
+        but captures the mood and subtle nuances of the setting." Bell's painting Mr. Martin
+        presents a common fixture at the downtown farmer's market. With his portrait, Bell looked to
+        depict "the nostalgia of our lovely market historical area."</dcterms:description>
+    <dcterms:creator>Anne Bell (American, Born 1935)</dcterms:creator>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:created>1984</dcterms:created>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:isPartOf>Taubman Museum of Art</dcterms:isPartOf>
+    <dcterms:medium>painting (visual works)</dcterms:medium>
+    <dcterms:medium>oil</dcterms:medium>
+    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>https://di.lib.vt.edu/items/show/939</edm:isShownAt>
+    <edm:preview>http://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000114 1989.001/TAU_ART_000114
+        1989.001.jpg</edm:preview>
+</mdRecord>

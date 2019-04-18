@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>TAU_ART_000124 2002.001</dcterms:identifier>
+    <dcterms:title>Pirate House of Harry Main</dcterms:title>
+    <dcterms:description>Born in Ipswich, Massachusetts, Dow traveled to Paris to study at the
+        Academie Julian and studied the work of british designer William Morris. Considered one of
+        the most influential teachers of his time in the field of arts and crafts, one of Dow's most
+        well known students was artist Georgia O'Keeffe. Deeply influenced by Japanese art and
+        aesthetics, Dow sought out subjects such as architectural elements and natural landscapes
+        mainly located on Boston's North Shore, which he felt were best suited to his Asian inspired
+        appreciation of nature.</dcterms:description>
+    <dcterms:creator>Arthur Wesley Dow (American, 1857-1922)</dcterms:creator>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:created>1889</dcterms:created>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:isPartOf>Taubman Museum of Art</dcterms:isPartOf>
+    <dcterms:medium>painting (visual works)</dcterms:medium>
+    <dcterms:medium>oil</dcterms:medium>
+    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>https://di.lib.vt.edu/items/show/948</edm:isShownAt>
+    <edm:preview>http://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000124 2002.001/TAU_ART_000124
+        2002.001.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>TAU_ART_000123 2000.021</dcterms:identifier>
+    <dcterms:title>Portrait of Norah Gribble</dcterms:title>
+    <dcterms:description>This evocative piece by Sargent, one of the greatest portrait artists in
+        American history, is among his largest full-length portraits. He won praise and critical
+        acclaim for his looser approach to brushstrokes and ability to to reveal the psychology of
+        his sitters. Sargent's Paris studio flourished in the late 1880s until he exhibited the
+        scandalous and widely criticized portrait Madame X, a work he later sold for £1,000 to the
+        Metropolitan Museum of Art in 1916. The tumult drove him out of France and into Britain,
+        where he established a prosperous studio as a portrait painter for wealthy, elite patrons
+        from England and the United States. The portrait of Norah Gribble (a London based socialite
+        in her early 20s) is particularly notable for its massive scale, lifelike quality, and her
+        alluring glance at the viewer. During Sargent's career, he painted some 900 oil paintings
+        and more than 2,000 sketches and charcoal drawings.</dcterms:description>
+    <dcterms:description>Second picture: Detail showing evidence, in the shine of the varnish, of
+        the original frontal pose</dcterms:description>
+    <dcterms:creator>John Singer Sargent (American, 1856-1925)</dcterms:creator>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:created>1888</dcterms:created>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:isPartOf>Taubman Museum of Art</dcterms:isPartOf>
+    <dcterms:medium>painting (visual works)</dcterms:medium>
+    <dcterms:medium>oil on canvas</dcterms:medium>
+    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>https://di.lib.vt.edu/items/show/947</edm:isShownAt>
+    <edm:preview>http://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000123 2000.021/TAU_ART_000123
+        2000.021.jpg</edm:preview>
+</mdRecord>

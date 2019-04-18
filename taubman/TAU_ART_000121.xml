@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>TAU_ART_000121 2003.026</dcterms:identifier>
+    <dcterms:title>Daura with Cane and Brushes</dcterms:title>
+    <dcterms:description>Spanish born and Virginia based painter Pierre Daura was a prominent figure
+        in the development of European modernism. He is known for his participation in the Cercle et
+        Carre, which was a group of artists that promoted geometric construction rather than the
+        irrational abstraction by the Surrealists. With his lifelong commitment to art, Daura once
+        commented, "All I have ever wanted to do is to find a way to paint. I have painted. I have
+        worked. I have given myself to my art. That is what I have wanted since my very early age...
+        to be an artist, good or bad... that is what I am."</dcterms:description>
+    <dcterms:creator>Pierre Daura (Spanish, 1896-1976)</dcterms:creator>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:created>1970-1971</dcterms:created>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:isPartOf>Taubman Museum of Art</dcterms:isPartOf>
+    <dcterms:medium>painting (visual works)</dcterms:medium>
+    <dcterms:medium>oil</dcterms:medium>
+    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>https://di.lib.vt.edu/items/show/945</edm:isShownAt>
+    <edm:preview>http://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000121 2003.026/TAU_ART_000121
+        2003.026.jpg</edm:preview>
+</mdRecord>

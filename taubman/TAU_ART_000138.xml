@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>TAU_ART_000138 1963.003</dcterms:identifier>
+    <dcterms:title>Apartment 'C'</dcterms:title>
+    <dcterms:description>Clifton was born in Norfolk, Virginia and was raised in Newport News. He
+        studied painting at the Pennsylvania Academy of Fine Arts in Philadelphia. Known for his
+        enigmatic portraits and landscapes, Clifton exhibited throughout Virginia and had a career
+        retrospective at the Charles H. Taylor Arts Center in Hampton, Virginia that featured more
+        than 50 drawings and paintings from his 60-year career.</dcterms:description>
+    <dcterms:creator>Jack Clifton (American, 1912-1990)</dcterms:creator>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:created>196X</dcterms:created>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:isPartOf>Taubman Museum of Art</dcterms:isPartOf>
+    <dcterms:medium>painting (visual works)</dcterms:medium>
+    <dcterms:medium>oil</dcterms:medium>
+    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>https://di.lib.vt.edu/items/show/962</edm:isShownAt>
+    <edm:preview>http://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000138 1963.003/TAU_ART_000138
+        1963.003.jpg</edm:preview>
+</mdRecord>

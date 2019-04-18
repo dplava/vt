@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>TAU_ART_000141 1994.018</dcterms:identifier>
+    <dcterms:title>[Hank Williams] Grace And Violence...</dcterms:title>
+    <dcterms:description>Roanoke based artist, curator, and educator Brian Sieveking blurs the
+        boundaries between history, mythology and pop culture. Sieveking comments: "My work draws
+        upon my lifelong interest in history, popular culture, the odd and the arcane particularly
+        as it relates to the mythology if of the South" [Hank Williams] Grace And Violence is part
+        of a large series in which the artist created cryptic and iconic images in a style similar
+        to commercial art to emphasize culture's commodification of Southern symbols. Sieveking's
+        work is held in public and private collections in 14 states and seven countries. He is a
+        long time collector and researcher of southern folk art and has curated, lectured and
+        written extensively on the subject.</dcterms:description>
+    <dcterms:creator>Brian Sieveking (American, Born 1964)</dcterms:creator>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:created>1992/1993</dcterms:created>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:isPartOf>Taubman Museum of Art</dcterms:isPartOf>
+    <dcterms:medium>painting (visual works)</dcterms:medium>
+    <dcterms:medium>oil, wax crayon, collaged paper and gesso</dcterms:medium>
+    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>https://di.lib.vt.edu/items/show/965</edm:isShownAt>
+    <edm:preview>http://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000141 1994.018/TAU_ART_000141
+        1994.018.jpg</edm:preview>
+</mdRecord>

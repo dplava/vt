@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>TAU_ART_000126 2003.002</dcterms:identifier>
+    <dcterms:title>Leeds Jug</dcterms:title>
+    <dcterms:description>Considered one of the most successful still life genre painters of his
+        time, Emil Carlsen immigrated to the united States from Denmark. He studied painting at the
+        Ecole des Beaux-Arts de Copenhagen and the Chicago Academy of Design and at the California
+        School of Design. Called an "American Chardin" due to the similarity of his painting
+        technique to 18th century famous french still life painter Jean-Baptiste-SimeonChardin,
+        Carlsen's paintings were sought after due to his delicate brushwork and manipulation of
+        light.</dcterms:description>
+    <dcterms:creator>Emil Carlsen (Danish, 1853-1932)</dcterms:creator>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:created>1920</dcterms:created>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:isPartOf>Taubman Museum of Art</dcterms:isPartOf>
+    <dcterms:medium>painting (visual works)</dcterms:medium>
+    <dcterms:medium>oil</dcterms:medium>
+    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>https://di.lib.vt.edu/items/show/950</edm:isShownAt>
+    <edm:preview>http://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000126 2003.002/TAU_ART_000126
+        2003.002.jpg</edm:preview>
+</mdRecord>

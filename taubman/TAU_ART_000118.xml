@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>TAU_ART_000118 2004.001</dcterms:identifier>
+    <dcterms:title>Cotton Picker</dcterms:title>
+    <dcterms:description>Born in Neosho, Missouri into a family of lawyers and politicians, Thomas
+        Hart Benton became one of his state's most recognized painters. Finding the scenes of the
+        common man most fascinating to paint, Benton was a pioneer of the regionalist art movement
+        focusing on nostalgic settings of the Midwest. Benton painted Cotton Pickers based on notes
+        from a visit to Georgia in which he conveyed the dignity of the pickers despite their harsh
+        working conditions. Cotton cultivation was particular subject of interest to Benton
+        especially in light of rapid industrialization, which permanently changed the American
+        landscape. he received several commissions for murals during his lifetime, including from
+        the Whitney Museum in New York and the Missouri State Capitol.</dcterms:description>
+    <dcterms:creator>Thomas Hart Benton (American, 1889-1975)</dcterms:creator>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Art</dcterms:subject>
+    <dcterms:created>1943</dcterms:created>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:isPartOf>Taubman Museum of Art</dcterms:isPartOf>
+    <dcterms:medium>painting (visual works)</dcterms:medium>
+    <dcterms:medium>oil</dcterms:medium>
+    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>https://di.lib.vt.edu/items/show/942</edm:isShownAt>
+    <edm:preview>http://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000118 2004.001/TAU_ART_000118
+        2004.001.jpg</edm:preview>
+</mdRecord>
