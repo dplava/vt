@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>LJC_107_033</dcterms:identifier>
+    <dcterms:title>Pyramid, Saqqara, Egypt</dcterms:title>
+    <dcterms:creator>Currie,
+Leonard
+J.
+(Leonard
+James),
+1913-1996
+(Photographer)</dcterms:creator>
+    <dcterms:subject>Egyptian
+(modern)</dcterms:subject>
+    <dcterms:subject>monuments</dcterms:subject>
+    <dcterms:subject>ruins</dcterms:subject>
+    <dcterms:subject>Egyptian
+(ancient)</dcterms:subject>
+    <dcterms:subject>Leonard
+J.
+Currie
+Slides</dcterms:subject>
+    <dcterms:subject>Africa</dcterms:subject>
+    <dcterms:subject>Egypt</dcterms:subject>
+    <dcterms:created>1974-10</dcterms:created>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:isPartOf>Leonard J. Currie Slides</dcterms:isPartOf>
+    <dcterms:spatial>Ṣaqqâra,
+Muḩāfaz̧at
+Maţrūḩ,
+Egypt</dcterms:spatial>
+    <dcterms:medium>color slides</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:rightsHolder>Estate of Leonard J. Currie</dcterms:rightsHolder>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>https://di.lib.vt.edu/items/show/1298</edm:isShownAt>
+    <edm:preview>https://di.lib.vt.edu/files/thumbnails/Leonard_J._Currie_s_Slides_Collection/LJC_107_033/LJC_107_033.jpg</edm:preview>
+</mdRecord>

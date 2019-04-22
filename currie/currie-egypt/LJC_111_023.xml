@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>LJC_111_023</dcterms:identifier>
+    <dcterms:title>Temple of Queen Hatshepsut, Valley of the Queens</dcterms:title>
+    <dcterms:creator>Currie,
+Leonard
+J.
+(Leonard
+James),
+1913-1996
+(Photographer)</dcterms:creator>
+    <dcterms:subject>Egyptian
+(modern)</dcterms:subject>
+    <dcterms:subject>Egyptian
+(ancient)</dcterms:subject>
+    <dcterms:subject>monuments</dcterms:subject>
+    <dcterms:subject>religious
+buildings</dcterms:subject>
+    <dcterms:subject>works
+of
+art</dcterms:subject>
+    <dcterms:subject>exterior
+views</dcterms:subject>
+    <dcterms:subject>Leonard
+J.
+Currie
+Slides</dcterms:subject>
+    <dcterms:subject>Africa</dcterms:subject>
+    <dcterms:subject>Egypt</dcterms:subject>
+    <dcterms:created>1974-09</dcterms:created>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:isPartOf>Leonard J. Currie Slides</dcterms:isPartOf>
+    <dcterms:spatial>Queens,
+Valley
+of
+the,
+Muḩāfaz̧at
+al
+Wādī
+al
+Jadīd,
+Egypt</dcterms:spatial>
+    <dcterms:medium>color slides</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:rightsHolder>Estate of Leonard J. Currie</dcterms:rightsHolder>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>https://di.lib.vt.edu/items/show/1285</edm:isShownAt>
+    <edm:preview>https://di.lib.vt.edu/files/thumbnails/Leonard_J._Currie_s_Slides_Collection/LJC_111_023/LJC_111_023.jpg</edm:preview>
+</mdRecord>
