@@ -6,7 +6,7 @@
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu
 dplava.xsd">
-    <dcterms:identifier>TAU_ART_000113 2002.004</dcterms:identifier>
+    <dcterms:identifier>TAU_ART_000113</dcterms:identifier>
     <dcterms:title>Voyage of the Polaris</dcterms:title>
     <dcterms:description>Maritime painter William Bedford was well known for his ship portraiture
         that employ painstaking precision, clarity and preoccupation with light. Intrigued with the
@@ -34,6 +34,5 @@ dplava.xsd">
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University
         Libraries</dcterms:provenance>
     <edm:isShownAt>https://di.lib.vt.edu/items/show/938</edm:isShownAt>
-    <edm:preview>http://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000113 2002.004/TAU_ART_000113
-        2002.004.jpg</edm:preview>
+    <edm:preview>https://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000113/TAU_ART_000113_0002.jpg</edm:preview>
 </mdRecord>

@@ -6,7 +6,7 @@
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu
 dplava.xsd">
-    <dcterms:identifier>TAU_ART_000120 2003.003</dcterms:identifier>
+    <dcterms:identifier>TAU_ART_000120</dcterms:identifier>
     <dcterms:title>Swinging on the Gate</dcterms:title>
     <dcterms:description>Genre painter John George Brown, known as J. G., was born in Durham,
         England and took drawing classes as a young man at the School of Design at Newcastle-on-Tyne
@@ -27,6 +27,5 @@ dplava.xsd">
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University
         Libraries</dcterms:provenance>
     <edm:isShownAt>https://di.lib.vt.edu/items/show/944</edm:isShownAt>
-    <edm:preview>http://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000120 2003.003/TAU_ART_000120
-        2003.003.jpg</edm:preview>
+    <edm:preview>https://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000120/TAU_ART_000120_0002.jpg</edm:preview>
 </mdRecord>

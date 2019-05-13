@@ -6,7 +6,7 @@
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu
 dplava.xsd">
-    <dcterms:identifier>TAU_ART_000137 1993.012.001-.012</dcterms:identifier>
+    <dcterms:identifier>TAU_ART_000137</dcterms:identifier>
     <dcterms:title>Studio Light Suite</dcterms:title>
     <dcterms:description>Beloved Hollins University Professor emeritus and artist Bill White is a
         consummate artist whose paintings imply immortality, regardless of their actual size. It's
@@ -29,6 +29,5 @@ dplava.xsd">
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University
         Libraries</dcterms:provenance>
     <edm:isShownAt>https://di.lib.vt.edu/items/show/961</edm:isShownAt>
-    <edm:preview>http://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000137
-        1993.012.001-.012/TAU_ART_000137 1993.012.001-.012.jpg</edm:preview>
+    <edm:preview>https://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000137/TAU_ART_000137_0001.jpg</edm:preview>
 </mdRecord>

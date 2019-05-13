@@ -6,7 +6,7 @@
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu
 dplava.xsd">
-    <dcterms:identifier>TAU_ART_000143 1986.059</dcterms:identifier>
+    <dcterms:identifier>TAU_ART_000143</dcterms:identifier>
     <dcterms:title>Kinetograph #17</dcterms:title>
     <dcterms:description>Abstract painter and teacher Richard Irving Bowman was known for both his
         idiosyncratic style and employing fluorescent paint. He received his BFA from the Art
@@ -27,6 +27,5 @@ dplava.xsd">
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University
         Libraries</dcterms:provenance>
     <edm:isShownAt>https://di.lib.vt.edu/items/show/966</edm:isShownAt>
-    <edm:preview>http://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000143 1986.059/TAU_ART_000143
-        1986.059.jpg</edm:preview>
+    <edm:preview>https://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000143/TAU_ART_000143_0002.jpg</edm:preview>
 </mdRecord>

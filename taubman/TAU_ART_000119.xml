@@ -6,7 +6,7 @@
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu
 dplava.xsd">
-    <dcterms:identifier>TAU_ART_000119 2001.001</dcterms:identifier>
+    <dcterms:identifier>TAU_ART_000119</dcterms:identifier>
     <dcterms:title>Midsummer</dcterms:title>
     <dcterms:description>lnness in best known for his expressive, poetic landscapes that use rich
         brushstrokes to evoke moods. The son of a farmer and fifth of thirteen children, Inness went
@@ -26,6 +26,5 @@ dplava.xsd">
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University
         Libraries</dcterms:provenance>
     <edm:isShownAt>https://di.lib.vt.edu/items/show/943</edm:isShownAt>
-    <edm:preview>http://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000119 2001.001/TAU_ART_000119
-        2001.001.jpg</edm:preview>
+    <edm:preview>https://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000119/TAU_ART_000119_0002.jpg</edm:preview>
 </mdRecord>

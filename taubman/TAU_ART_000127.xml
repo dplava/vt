@@ -6,7 +6,7 @@
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu
 dplava.xsd">
-    <dcterms:identifier>TAU_ART_000127 2003.001</dcterms:identifier>
+    <dcterms:identifier>TAU_ART_000127</dcterms:identifier>
     <dcterms:title>Framed</dcterms:title>
     <dcterms:description>Norman Rockwell was a keen observer and storyteller. Between 1916 and 1963,
         Rockwell painted 323 paintings that were reproduced on the cover of the popular magazine,
@@ -29,6 +29,5 @@ dplava.xsd">
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University
         Libraries</dcterms:provenance>
     <edm:isShownAt>https://di.lib.vt.edu/items/show/951</edm:isShownAt>
-    <edm:preview>http://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000127 2003.001/TAU_ART_000127
-        2003.001.jpg</edm:preview>
+    <edm:preview>https://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000127/TAU_ART_000127_0004.jpg</edm:preview>
 </mdRecord>

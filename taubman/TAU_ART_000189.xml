@@ -6,7 +6,7 @@
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu
 dplava.xsd">
-    <dcterms:identifier>TAU_ART_000189 2008.104</dcterms:identifier>
+    <dcterms:identifier>TAU_ART_000189</dcterms:identifier>
     <dcterms:title>Dancer</dcterms:title>
     <dcterms:description>Based in Roanoke, Virginia Betty Branch earned both her BA and MA in Studio
         Art from Hollins University. her work has been the focus of numerous solo and international
@@ -30,6 +30,5 @@ dplava.xsd">
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University
         Libraries</dcterms:provenance>
     <edm:isShownAt>https://di.lib.vt.edu/items/show/967</edm:isShownAt>
-    <edm:preview>http://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000189 2008.104/TAU_ART_000189
-        2008.104.jpg</edm:preview>
+    <edm:preview>https://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000189/TAU_ART_000189_0001.jpg</edm:preview>
 </mdRecord>

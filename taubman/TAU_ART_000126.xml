@@ -6,7 +6,7 @@
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu
 dplava.xsd">
-    <dcterms:identifier>TAU_ART_000126 2003.002</dcterms:identifier>
+    <dcterms:identifier>TAU_ART_000126</dcterms:identifier>
     <dcterms:title>Leeds Jug</dcterms:title>
     <dcterms:description>Considered one of the most successful still life genre painters of his
         time, Emil Carlsen immigrated to the united States from Denmark. He studied painting at the
@@ -28,6 +28,5 @@ dplava.xsd">
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University
         Libraries</dcterms:provenance>
     <edm:isShownAt>https://di.lib.vt.edu/items/show/950</edm:isShownAt>
-    <edm:preview>http://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000126 2003.002/TAU_ART_000126
-        2003.002.jpg</edm:preview>
+    <edm:preview>https://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000126/TAU_ART_000126_0002.jpg</edm:preview>
 </mdRecord>

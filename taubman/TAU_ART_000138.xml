@@ -6,7 +6,7 @@
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu
 dplava.xsd">
-    <dcterms:identifier>TAU_ART_000138 1963.003</dcterms:identifier>
+    <dcterms:identifier>TAU_ART_000138</dcterms:identifier>
     <dcterms:title>Apartment 'C'</dcterms:title>
     <dcterms:description>Clifton was born in Norfolk, Virginia and was raised in Newport News. He
         studied painting at the Pennsylvania Academy of Fine Arts in Philadelphia. Known for his
@@ -26,6 +26,5 @@ dplava.xsd">
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University
         Libraries</dcterms:provenance>
     <edm:isShownAt>https://di.lib.vt.edu/items/show/962</edm:isShownAt>
-    <edm:preview>http://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000138 1963.003/TAU_ART_000138
-        1963.003.jpg</edm:preview>
+    <edm:preview>https://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000138/TAU_ART_000138_0005.jpg</edm:preview>
 </mdRecord>

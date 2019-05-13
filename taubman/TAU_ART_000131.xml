@@ -6,7 +6,7 @@
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu
 dplava.xsd">
-    <dcterms:identifier>TAU_ART_000131 1994.028</dcterms:identifier>
+    <dcterms:identifier>TAU_ART_000131</dcterms:identifier>
     <dcterms:title>Circle of Power/Matt X</dcterms:title>
     <dcterms:description>Self-taught artist Hugo Sperger was born in Italy and afterwards his family
         resettles in upstate New York. After a stint in the U. S. Army, Sperger lived in rural
@@ -26,6 +26,5 @@ dplava.xsd">
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University
         Libraries</dcterms:provenance>
     <edm:isShownAt>https://di.lib.vt.edu/items/show/955</edm:isShownAt>
-    <edm:preview>http://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000131 1994.028/TAU_ART_000131
-        1994.028.jpg</edm:preview>
+    <edm:preview>https://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000131/TAU_ART_000131_0001.jpg</edm:preview>
 </mdRecord>

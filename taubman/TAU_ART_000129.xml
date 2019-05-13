@@ -6,7 +6,7 @@
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu
 dplava.xsd">
-    <dcterms:identifier>TAU_ART_000129 2010.002</dcterms:identifier>
+    <dcterms:identifier>TAU_ART_000129</dcterms:identifier>
     <dcterms:title>Untitled</dcterms:title>
     <dcterms:description>Artist and teacher Gerald (Gerry) Donato earned his MA and BS degrees from
         Northern Illinois University and an MFA from the University of Wisconsin Madison. A
@@ -29,6 +29,5 @@ dplava.xsd">
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University
         Libraries</dcterms:provenance>
     <edm:isShownAt>https://di.lib.vt.edu/items/show/953</edm:isShownAt>
-    <edm:preview>http://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000129 2010.002/TAU_ART_000129
-        2010.002.jpg</edm:preview>
+    <edm:preview>https://di.lib.vt.edu/files/thumbnails/14/TAU_ART_000129/TAU_ART_000129_0001.jpg</edm:preview>
 </mdRecord>
