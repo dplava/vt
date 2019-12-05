@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>BTR_BTR_000604</dcterms:identifier>
+    <dcterms:title>Royal Family by George S. Kaufman and Edna Ferber</dcterms:title>
+    <dcterms:title>Ah, Wilderness! by Eugene O'Neill</dcterms:title>
+    <dcterms:title>Desperate Hours by Joseph Hayes</dcterms:title>
+    <dcterms:description>Playbill for Royal Family by George S. Kaufman and Edna Ferber, directed by
+        Patricia Carmichael|Ah, Wilderness! by Eugene O'Neill, directed by Jeff Meredith|Desperate
+        Hours by Joseph Hayes, directed by Rex Partington.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
+    <dcterms:subject>Theater</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:created>1980</dcterms:created>
+    <dcterms:type>image</dcterms:type>
+    <dcterms:isPartOf>Barter Theater Archives</dcterms:isPartOf>
+    <dcterms:spatial>Abingdon, Washington county, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>playbills</dcterms:medium>
+    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>https://di.lib.vt.edu/items/show/1808</edm:isShownAt>
+    <edm:preview>https://di.lib.vt.edu/files/thumbnails/1/BTR_BTR_000604/BTR_BTR_000604_0001.jpg</edm:preview>
+</mdRecord>

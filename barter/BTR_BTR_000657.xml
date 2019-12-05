@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>BTR_BTR_000657</dcterms:identifier>
+    <dcterms:title>Doctor Jekyll and Miss Hyde by David DeBoy</dcterms:title>
+    <dcterms:title>Sweet By 'n' By by Frank Higgins</dcterms:title>
+    <dcterms:title>Sweet + Deliverance by Eric Houston</dcterms:title>
+    <dcterms:title>Greater Loesser by Frank Loesser</dcterms:title>
+    <dcterms:title>Wrong Turn at Lungfish by Garry Marshall and Lowell Ganz</dcterms:title>
+    <dcterms:description>Playbill for Doctor Jekyll and Miss Hyde by David DeBoy, directed by
+        Richard Rose|Sweet Bye 'n' Bye by Frank Higgins, directed by Richard Rose|Sweet +
+        Deliverance by Eric Houston, directed by Susan Boulle|Greater Loesser by Frank Loesser,
+        directed by Winston Clark|Wrong Turn at Lungfish by Garry Marshall and Lowell Ganz, directed
+        by John Hardy.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
+    <dcterms:subject>Theater</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:created>1995</dcterms:created>
+    <dcterms:type>image</dcterms:type>
+    <dcterms:isPartOf>Barter Theater Archives</dcterms:isPartOf>
+    <dcterms:spatial>Abingdon, Washington county, Virginia, United States</dcterms:spatial>
+    <dcterms:medium>playbills</dcterms:medium>
+    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>https://di.lib.vt.edu/items/show/1846</edm:isShownAt>
+    <edm:preview>https://di.lib.vt.edu/files/thumbnails/1/BTR_BTR_000657/BTR_BTR_000657_0001.jpg</edm:preview>
+</mdRecord>
