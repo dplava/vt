@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>LJC_131_007</dcterms:identifier>
+    <dcterms:title>Seville, Spain</dcterms:title>
+    <dcterms:creator>Currie, Leonard J. (Leonard James), 1913-1996 (Photographer)</dcterms:creator>
+    <dcterms:subject>Spanish</dcterms:subject>
+    <dcterms:subject>Leonard J. Currie Slides</dcterms:subject>
+    <dcterms:subject>Europe</dcterms:subject>
+    <dcterms:subject>Spain</dcterms:subject>
+    <dcterms:created>1973-05</dcterms:created>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>Seville, Seville, Andalusia, Spain</dcterms:spatial>
+    <dcterms:medium>color slides</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:rightsHolder>Estate of Leonard J. Currie</dcterms:rightsHolder>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>https://di.lib.vt.edu/items/show/1932</edm:isShownAt>
+    <edm:preview>https://di.lib.vt.edu/files/thumbnails/Leonard_J._Currie_s_Slides_Collection/LJC_131_007/LJC_131_007.jpg</edm:preview>
+</mdRecord>
