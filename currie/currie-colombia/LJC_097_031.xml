@@ -5,11 +5,12 @@
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu
 dplava.xsd">
-    <dcterms:identifier>LJC_101_004</dcterms:identifier>
-    <dcterms:title>Fortaleza, Cartagena, Columbia</dcterms:title>
+    <dcterms:identifier>LJC_097_031</dcterms:identifier>
+    <dcterms:title>Street, Cartagena, Colombia</dcterms:title>
     <dcterms:creator>Currie, Leonard J. (Leonard James), 1913-1996 (Photographer)</dcterms:creator>
     <dcterms:subject>Colombian</dcterms:subject>
-    <dcterms:subject>military buildings</dcterms:subject>
+    <dcterms:subject>exterior views</dcterms:subject>
+    <dcterms:subject>entrances</dcterms:subject>
     <dcterms:subject>Leonard J. Currie Slides</dcterms:subject>
     <dcterms:subject>South America</dcterms:subject>
     <dcterms:subject>Colombia</dcterms:subject>
@@ -22,6 +23,6 @@ dplava.xsd">
     <dcterms:rightsHolder>Estate of Leonard J. Currie</dcterms:rightsHolder>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University
         Libraries</dcterms:provenance>
-    <edm:isShownAt>https://di.lib.vt.edu/items/show/641</edm:isShownAt>
-    <edm:preview>https://di.lib.vt.edu/files/thumbnails/Leonard_J._Currie_s_Slides_Collection/LJC_101_004/LJC_101_004.jpg</edm:preview>
+    <edm:isShownAt>https://di.lib.vt.edu/items/show/637</edm:isShownAt>
+    <edm:preview>https://di.lib.vt.edu/files/thumbnails/Leonard_J._Currie_s_Slides_Collection/LJC_097_031/LJC_097_031.jpg</edm:preview>
 </mdRecord>

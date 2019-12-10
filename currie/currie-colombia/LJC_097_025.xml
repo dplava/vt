@@ -5,13 +5,12 @@
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu
 dplava.xsd">
-    <dcterms:identifier>LJC_097_026</dcterms:identifier>
-    <dcterms:title>Street, Cartagena, Columbia</dcterms:title>
+    <dcterms:identifier>LJC_097_025</dcterms:identifier>
+    <dcterms:title>Old City, Cartagena, Colombia</dcterms:title>
     <dcterms:creator>Currie, Leonard J. (Leonard James), 1913-1996 (Photographer)</dcterms:creator>
     <dcterms:subject>Colombian</dcterms:subject>
-    <dcterms:subject>porches</dcterms:subject>
-    <dcterms:subject>mercantile buildings</dcterms:subject>
-    <dcterms:subject>streets</dcterms:subject>
+    <dcterms:subject>entrances</dcterms:subject>
+    <dcterms:subject>exterior views</dcterms:subject>
     <dcterms:subject>Leonard J. Currie Slides</dcterms:subject>
     <dcterms:subject>South America</dcterms:subject>
     <dcterms:subject>Colombia</dcterms:subject>
@@ -24,6 +23,6 @@ dplava.xsd">
     <dcterms:rightsHolder>Estate of Leonard J. Currie</dcterms:rightsHolder>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University
         Libraries</dcterms:provenance>
-    <edm:isShownAt>https://di.lib.vt.edu/items/show/634</edm:isShownAt>
-    <edm:preview>https://di.lib.vt.edu/files/thumbnails/Leonard_J._Currie_s_Slides_Collection/LJC_097_026/LJC_097_026.jpg</edm:preview>
+    <edm:isShownAt>https://di.lib.vt.edu/items/show/633</edm:isShownAt>
+    <edm:preview>https://di.lib.vt.edu/files/thumbnails/Leonard_J._Currie_s_Slides_Collection/LJC_097_025/LJC_097_025.jpg</edm:preview>
 </mdRecord>

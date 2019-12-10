@@ -5,24 +5,25 @@
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu
 dplava.xsd">
-    <dcterms:identifier>LJC_097_021</dcterms:identifier>
-    <dcterms:title>Fortaleza, Cartagena, Columbia</dcterms:title>
+    <dcterms:identifier>LJC_101_013</dcterms:identifier>
+    <dcterms:title>Fortaleza, Cartagena, Colombia</dcterms:title>
     <dcterms:creator>Currie, Leonard J. (Leonard James), 1913-1996 (Photographer)</dcterms:creator>
     <dcterms:subject>Colombian</dcterms:subject>
-    <dcterms:subject>fortifications</dcterms:subject>
     <dcterms:subject>military buildings</dcterms:subject>
+    <dcterms:subject>exterior views</dcterms:subject>
+    <dcterms:subject>fortifications</dcterms:subject>
     <dcterms:subject>Leonard J. Currie Slides</dcterms:subject>
     <dcterms:subject>South America</dcterms:subject>
     <dcterms:subject>Colombia</dcterms:subject>
     <dcterms:created>1956-07</dcterms:created>
     <dcterms:type>Image</dcterms:type>
     <dcterms:isPartOf>Leonard J. Currie Slides</dcterms:isPartOf>
-    <dcterms:spatial>Cartagena, Bolívar, Colombia</dcterms:spatial>
+    <dcterms:spatial>Fortaleza, Cartagena, Bolívar, Colombia</dcterms:spatial>
     <dcterms:medium>color slides</dcterms:medium>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
     <dcterms:rightsHolder>Estate of Leonard J. Currie</dcterms:rightsHolder>
     <dcterms:provenance>Virginia Polytechnic Institute and State University. University
         Libraries</dcterms:provenance>
-    <edm:isShownAt>https://di.lib.vt.edu/items/show/629</edm:isShownAt>
-    <edm:preview>https://di.lib.vt.edu/files/thumbnails/Leonard_J._Currie_s_Slides_Collection/LJC_097_021/LJC_097_021.jpg</edm:preview>
+    <edm:isShownAt>https://di.lib.vt.edu/items/show/650</edm:isShownAt>
+    <edm:preview>https://di.lib.vt.edu/files/thumbnails/Leonard_J._Currie_s_Slides_Collection/LJC_101_013/LJC_101_013.jpg</edm:preview>
 </mdRecord>
