@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>LJC_098_011</dcterms:identifier>
+    <dcterms:title>Kenscoff Market, Port-au-Prince, Haiti</dcterms:title>
+    <dcterms:creator>Currie, Leonard J. (Leonard James), 1913-1996 (Photographer)</dcterms:creator>
+    <dcterms:subject>Haitian</dcterms:subject>
+    <dcterms:subject>marketplaces</dcterms:subject>
+    <dcterms:subject>Leonard J. Currie Slides</dcterms:subject>
+    <dcterms:subject>Caribbean</dcterms:subject>
+    <dcterms:subject>Haiti</dcterms:subject>
+    <dcterms:created>1956-07</dcterms:created>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>Port-au-Prince, Ouest, Haiti</dcterms:spatial>
+    <dcterms:medium>color slides</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:rightsHolder>Estate of Leonard J. Currie</dcterms:rightsHolder>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>http://di.lib.vt.edu/items/show/2126</edm:isShownAt>
+    <edm:preview>https://di.lib.vt.edu/files/thumbnails/Leonard_J._Currie_s_Slides_Collection/LJC_098_011/LJC_098_011.jpg</edm:preview>
+</mdRecord>
