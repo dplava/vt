@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+    <dcterms:identifier>LJC_183_064</dcterms:identifier>
+    <dcterms:title>Panama Canal - approach to 1st locks</dcterms:title>
+    <dcterms:creator>Currie, Leonard J. (Leonard James), 1913-1996 (Photographer)</dcterms:creator>
+    <dcterms:subject>Panamanian</dcterms:subject>
+    <dcterms:subject>waterways</dcterms:subject>
+    <dcterms:subject>watercraft</dcterms:subject>
+    <dcterms:subject>canals (waterways)</dcterms:subject>
+    <dcterms:subject>Leonard J. Currie Slides</dcterms:subject>
+    <dcterms:subject>Central America</dcterms:subject>
+    <dcterms:subject>Panama</dcterms:subject>
+    <dcterms:created>1952-01</dcterms:created>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:spatial>Panamá, Canal de, Panama</dcterms:spatial>
+    <dcterms:medium>color slides</dcterms:medium>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:rightsHolder>Estate of Leonard J. Currie</dcterms:rightsHolder>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
+        Libraries</dcterms:provenance>
+    <edm:isShownAt>https://di.lib.vt.edu/items/show/2196</edm:isShownAt>
+    <edm:preview>https://di.lib.vt.edu/files/thumbnails/Leonard_J._Currie_s_Slides_Collection/LJC_183_064/LJC_183_064.jpg</edm:preview>
+</mdRecord>
