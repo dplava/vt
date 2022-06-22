@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>MTG_MNM_000137</dcterms:identifier>
+   <dcterms:title>Montgomery News Messenger (Christiansburg, Montgomery County, VA), Vol. 3, No. 39, Wednesday, December 20, 1933</dcterms:title>
+   <dcterms:description>Newspaper from Christiansburg, Montgomery County, Virginia that includes local news and advertisements</dcterms:description>
+   <dcterms:subject>Virginia</dcterms:subject>
+   <dcterms:subject>Newspapers</dcterms:subject>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:isPartOf>Montgomery Museum Newspaper Collection</dcterms:isPartOf>
+   <dcterms:extent>10 pages</dcterms:extent>
+   <dcterms:format>image/jpeg</dcterms:format>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+   <edm:isShownAt>https://di.lib.vt.edu/items/show/3353</edm:isShownAt>
+   <edm:preview>https://di.lib.vt.edu/files/thumbnails/20/MTG_MNM_000137/MTG_MNM_000137_0002.jpg</edm:preview>
+</mdRecord>
