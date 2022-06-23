@@ -1,29 +1,25 @@
-<mdRecord xmlns="http://dplava.lib.virginia.edu"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns:edm="http://www.europeana.eu/schemas/edm/"
-    xsi:schemaLocation="http://dplava.lib.virginia.edu
-dplava.xsd">
-    <dcterms:identifier>BTR_BTR_000311</dcterms:identifier>
-    <dcterms:title>Hamlet Medal [for] Mr. Robert Breen</dcterms:title>
-    <dcterms:description>In appreciation of your brilliant presentation of Hamlet The National Open
-        Air Stage Performance at Kronborg in the Summer of 1949 together with the State Theatre of
-        Virginia The Elsinore Town Council hereby takes pleasuse in awarding to Mr. Robert Breen the
-        official Hamlet Medal of the Town of Elsinore.</dcterms:description>
-    <dcterms:language>eng</dcterms:language>
-    <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
-    <dcterms:subject>Theater</dcterms:subject>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:created>1949</dcterms:created>
-    <dcterms:type>Image</dcterms:type>
-    <dcterms:isPartOf>Barter Theatre Archives</dcterms:isPartOf>
-    <dcterms:spatial>Abingdon, Washington county, Virginia, United States</dcterms:spatial>
-    <dcterms:medium>posters</dcterms:medium>
-    <dcterms:format>image/jpeg</dcterms:format>
-    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
-    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
-        Libraries</dcterms:provenance>
-    <edm:isShownAt>https://di.lib.vt.edu/items/show/854</edm:isShownAt>
-    <edm:preview>https://di.lib.vt.edu/files/thumbnails/1/BTR_BTR_000311/BTR_BTR_000311_0001.jpg</edm:preview>
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>BTR_BTR_000311</dcterms:identifier>
+   <dcterms:title>Hamlet Medal Certificate</dcterms:title>
+   <dcterms:description>Certificate awarded with the Hamlet Medal of Elsinore to Robert Breen for his performance of Hamlet with the cast of the State Theatre of Virginia at the National Open-Air Stage Festival at Kronborg Castle. Awarded by the Town Council of Elsinore, June 25, 1949.</dcterms:description>
+   <dcterms:language>eng</dcterms:language>
+   <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
+   <dcterms:subject>Theater</dcterms:subject>
+   <dcterms:subject>Virginia</dcterms:subject>
+   <dcterms:created>1949-06-25</dcterms:created>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:isPartOf>Barter Theatre Archives</dcterms:isPartOf>
+   <dcterms:medium>awards</dcterms:medium>
+   <dcterms:format>image/jpeg</dcterms:format>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+   <edm:isShownAt>https://di.lib.vt.edu/items/show/854</edm:isShownAt>
+   <edm:preview>https://di.lib.vt.edu/files/thumbnails/1/BTR_BTR_000311/BTR_BTR_000311_0001.jpg</edm:preview>
 </mdRecord>

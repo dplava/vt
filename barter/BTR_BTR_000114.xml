@@ -1,26 +1,24 @@
-<mdRecord xmlns="http://dplava.lib.virginia.edu"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns:edm="http://www.europeana.eu/schemas/edm/"
-    xsi:schemaLocation="http://dplava.lib.virginia.edu
-dplava.xsd">
-    <dcterms:identifier>BTR_BTR_000114</dcterms:identifier>
-    <dcterms:title>Barter Theatre poster with four plays from Aug 24 thru Aug 26</dcterms:title>
-    <dcterms:description>Production poster for plays: Take Her, She's Mine| Androcles and the Lion|
-        Critic's Choice.</dcterms:description>
-    <dcterms:language>eng</dcterms:language>
-    <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
-    <dcterms:subject>Theater</dcterms:subject>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
-    <dcterms:isPartOf>Barter Theatre Archives</dcterms:isPartOf>
-    <dcterms:spatial>Abingdon, Washington county, Virginia, United States</dcterms:spatial>
-    <dcterms:medium>posters</dcterms:medium>
-    <dcterms:format>image/jpeg</dcterms:format>
-    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
-    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
-        Libraries</dcterms:provenance>
-    <edm:isShownAt>https://di.lib.vt.edu/items/show/727</edm:isShownAt>
-    <edm:preview>https://di.lib.vt.edu/files/thumbnails/1/BTR_BTR_000114/BTR_BTR_000114_0001.jpg</edm:preview>
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>BTR_BTR_000114</dcterms:identifier>
+   <dcterms:title>Barter Theatre: Aug 24 thru 26</dcterms:title>
+   <dcterms:description>Poster for plays at the Barter Theatre. Productions include: Take Her, She&amp;#039;s Mine, Aug 24-26 | Androcles and the Lion, Aug 24-25 | Critic&amp;#039;s Choice, Aug 27-29 | Witness for the Prosecution, Aug 31.</dcterms:description>
+   <dcterms:language>eng</dcterms:language>
+   <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
+   <dcterms:subject>Theater</dcterms:subject>
+   <dcterms:subject>Virginia</dcterms:subject>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:isPartOf>Barter Theatre Archives</dcterms:isPartOf>
+   <dcterms:medium>posters</dcterms:medium>
+   <dcterms:format>image/jpeg</dcterms:format>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+   <edm:isShownAt>https://di.lib.vt.edu/items/show/727</edm:isShownAt>
+   <edm:preview>https://di.lib.vt.edu/files/thumbnails/1/BTR_BTR_000114/BTR_BTR_000114_0001.jpg</edm:preview>
 </mdRecord>

@@ -1,29 +1,25 @@
-<mdRecord xmlns="http://dplava.lib.virginia.edu"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns:edm="http://www.europeana.eu/schemas/edm/"
-    xsi:schemaLocation="http://dplava.lib.virginia.edu
-dplava.xsd">
-    <dcterms:identifier>BTR_BTR_000163</dcterms:identifier>
-    <dcterms:title>Barter Theatre poster for 1998 plays and Summer Reperetory</dcterms:title>
-    <dcterms:description>Production poster for The Adventures of Huckleberry Finn| Shepherd!| All I
-        Really Need to Know I Learned in Kindergarten| The Diaries of Adam and Eve| Always,...Patsy
-        Cline| Frankenstein. Summer Reperetory plays: Fiddler on the Roof| Tartuffe| Sylvia| Almost
-        Like Being in Love| WMKS: The Christmas Show - 1942.</dcterms:description>
-    <dcterms:language>eng</dcterms:language>
-    <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
-    <dcterms:subject>Theater</dcterms:subject>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:created>1998</dcterms:created>
-    <dcterms:type>Image</dcterms:type>
-    <dcterms:isPartOf>Barter Theatre Archives</dcterms:isPartOf>
-    <dcterms:spatial>Abingdon, Washington county, Virginia, United States</dcterms:spatial>
-    <dcterms:medium>posters</dcterms:medium>
-    <dcterms:format>image/jpeg</dcterms:format>
-    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
-    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
-        Libraries</dcterms:provenance>
-    <edm:isShownAt>https://di.lib.vt.edu/items/show/737</edm:isShownAt>
-    <edm:preview>https://di.lib.vt.edu/files/thumbnails/1/BTR_BTR_000163/BTR_BTR_000163_0001.jpg</edm:preview>
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>BTR_BTR_000163</dcterms:identifier>
+   <dcterms:title>1998 Season</dcterms:title>
+   <dcterms:description>Poster for the 1998 season of the Barter Theatre. Artistic Director: Richard Rose. Programs: Adventures of Huckleberry Finn, March 5- April 3, Sponsored by Eastman | Shepherd!, April 1-11, Sponsored by King Pharmaceuticals | All I Really Need to Know I Learned in Kindergarten: A musical adaptation of the stories of Robert Fulghum, April 8-16, Sponsored by Sprint | Diaries of Adam and Eve by Mark Twain, Starring David Birney and Harriet Hall, May 20- June 14, Sponsored by Camberley&amp;#039;s Martha Washington Inn | Fiddler on the Roof, June 18-Aug 23, Sponsored by Lebanon Apparel | Tartuffe by Molieré, July 1- Aug 22, Sponsored by Nationsbank and Virginia Chamber of Commerce | Sylvia, June 23-Aug 29, Sponsored by US Airways | Almost like Being in Love: A musical revue of the songs of Alan J. Lerner, July 2-30, Sponsored by US Airways | WMKS: The Christmas Show- 1942, Nov 19- Dec 27, Sponsored by Columbus McKinnon.</dcterms:description>
+   <dcterms:language>eng</dcterms:language>
+   <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
+   <dcterms:subject>Theater</dcterms:subject>
+   <dcterms:subject>Virginia</dcterms:subject>
+   <dcterms:created>1998-03-05/1998-12-27</dcterms:created>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:isPartOf>Barter Theatre Archives</dcterms:isPartOf>
+   <dcterms:medium>posters</dcterms:medium>
+   <dcterms:format>image/jpeg</dcterms:format>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+   <edm:isShownAt>https://di.lib.vt.edu/items/show/737</edm:isShownAt>
+   <edm:preview>https://di.lib.vt.edu/files/thumbnails/1/BTR_BTR_000163/BTR_BTR_000163_0001.jpg</edm:preview>
 </mdRecord>

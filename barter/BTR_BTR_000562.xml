@@ -1,28 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mdRecord xmlns="http://dplava.lib.virginia.edu"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns:edm="http://www.europeana.eu/schemas/edm/"
-    xsi:schemaLocation="http://dplava.lib.virginia.edu
-dplava.xsd">
-    <dcterms:identifier>BTR_BTR_000562</dcterms:identifier>
-    <dcterms:title>Dial M for Murder by Frederick Knott</dcterms:title>
-    <dcterms:description>Playbill for national tour of Dial M for Murder by Frederick
-        Knott.</dcterms:description>
-    <dcterms:language>eng</dcterms:language>
-    <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
-    <dcterms:subject>Theater</dcterms:subject>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:created>1955-09-29/1955-11-12</dcterms:created>
-    <dcterms:type>image</dcterms:type>
-    <dcterms:isPartOf>Barter Theatre Archives</dcterms:isPartOf>
-    <dcterms:spatial>Abingdon, Washington county, Virginia, United States</dcterms:spatial>
-    <dcterms:medium>playbills</dcterms:medium>
-    <dcterms:format>image/jpeg</dcterms:format>
-    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
-    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
-        Libraries</dcterms:provenance>
-    <edm:isShownAt>https://di.lib.vt.edu/items/show/1771</edm:isShownAt>
-    <edm:preview>https://di.lib.vt.edu/files/thumbnails/1/BTR_BTR_000562/BTR_BTR_000562_0001.jpg</edm:preview>
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>BTR_BTR_000562</dcterms:identifier>
+   <dcterms:title>1955 National Tour: Dial M for Murder by Frederick Knott</dcterms:title>
+   <dcterms:description>Playbill for the 1955 Barter National Tour of Frederick Knott&amp;#039;s Dial M for Murder. Directed by Howard Hunter. Setting by Lynn Pecktal. Lighting by Albin Aukerlund. Sep 29: Oak Ridge, TN. Oct 1: Big Stone Gap, VA. Oct 3: Pikesville, KY. Oct 4: Fayetteville, WV. Oct 5: White Sulphur Springs, WV. Oct 6: Rocky Mount, VA. Oct 7: Staunton, VA. Oct 8: Waynesboro, VA. Oct 10: Bridgewater , VA. Oct 11: Warrenton, VA. Oct 12: Cumberland, MD. Oct 13: Keyser, WV. Oct 15: St. Mary&amp;#039;s City, MD. Oct 17: Bel Air, MD. Oct 19: Orange, VA. Oct 20: Bedford, VA. Oct 21: Richmond, VA. Oct 22: Portsmouth, VA. Oct 24: Franklin, VA. Oct 25: Warwick, VA. Oct 27: Aiken: SC. Oct 29: Raleigh, NC. Oct 31: Narrows, VA. Nov 1: Roanoke, VA. Nov 2: Elon College, NC. Nov 3: Pinehurst, NC. Nov 4: Salisbury, NC. Nov 5: Chatham, VA. Nov 6: Roanoke, VA. Nov 7: Covington, VA. Nov 10: Independence, VA. Nov 11-12: Abingdon, VA.</dcterms:description>
+   <dcterms:language>eng</dcterms:language>
+   <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
+   <dcterms:subject>Theater</dcterms:subject>
+   <dcterms:subject>Virginia</dcterms:subject>
+   <dcterms:created>1955-09-29/1955-11-12</dcterms:created>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:isPartOf>Barter Theatre Archives</dcterms:isPartOf>
+   <dcterms:medium>playbills</dcterms:medium>
+   <dcterms:format>image/jpeg</dcterms:format>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+   <edm:isShownAt>https://di.lib.vt.edu/items/show/1771</edm:isShownAt>
+   <edm:preview>https://di.lib.vt.edu/files/thumbnails/1/BTR_BTR_000562/BTR_BTR_000562_0001.jpg</edm:preview>
 </mdRecord>

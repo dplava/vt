@@ -1,28 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mdRecord xmlns="http://dplava.lib.virginia.edu"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns:edm="http://www.europeana.eu/schemas/edm/"
-    xsi:schemaLocation="http://dplava.lib.virginia.edu
-dplava.xsd">
-    <dcterms:identifier>BTR_BTR_000552</dcterms:identifier>
-    <dcterms:title>Repertory Schedule</dcterms:title>
-    <dcterms:description>Poster for Repertory Schedule for the Barter Theatre of
-        Virginia.</dcterms:description>
-    <dcterms:language>eng</dcterms:language>
-    <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
-    <dcterms:subject>Theater</dcterms:subject>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:created>1946</dcterms:created>
-    <dcterms:type>image</dcterms:type>
-    <dcterms:isPartOf>Barter Theatre Archives</dcterms:isPartOf>
-    <dcterms:spatial>Abingdon, Washington county, Virginia, United States</dcterms:spatial>
-    <dcterms:medium>posters</dcterms:medium>
-    <dcterms:format>image/jpeg</dcterms:format>
-    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
-    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
-        Libraries</dcterms:provenance>
-    <edm:isShownAt>https://di.lib.vt.edu/items/show/1766</edm:isShownAt>
-    <edm:preview>https://di.lib.vt.edu/files/thumbnails/1/BTR_BTR_000552/BTR_BTR_000552_0001.jpg</edm:preview>
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>BTR_BTR_000552</dcterms:identifier>
+   <dcterms:title>1946 Repertory Schedule</dcterms:title>
+   <dcterms:description>Schedule for 1946 shows at the Barter Theatre. Productions include: State of the Union, July 30-31 | My Sister Eileen, Aug 1-2 | Arms and the Man, Aug 3-4 | State of the Union, Aug 5-7 | Arms and the Man, Aug 8-9 | State of the Union, Aug 10 | Women, Aug 13-14 | State of the Union, Aug 15-17 | Much Ado About Nothing, Aug 20-23 | Women, Aug 24. Drama Festival: Aug 26-Sep 7.</dcterms:description>
+   <dcterms:language>eng</dcterms:language>
+   <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
+   <dcterms:subject>Theater</dcterms:subject>
+   <dcterms:subject>Virginia</dcterms:subject>
+   <dcterms:created>1946-07-30/1946-11-07</dcterms:created>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:isPartOf>Barter Theatre Archives</dcterms:isPartOf>
+   <dcterms:medium>posters</dcterms:medium>
+   <dcterms:format>image/jpeg</dcterms:format>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+   <edm:isShownAt>https://di.lib.vt.edu/items/show/1766</edm:isShownAt>
+   <edm:preview>https://di.lib.vt.edu/files/thumbnails/1/BTR_BTR_000552/BTR_BTR_000552_0001.jpg</edm:preview>
 </mdRecord>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>BTR_BTR_000473</dcterms:identifier>
+   <dcterms:title>Family Portrait by Leonore Coffee and William Joyce Cowen</dcterms:title>
+   <dcterms:description>Poster for Judith Anderson in the Aug 10-15, 1953 play Family Portrait by Leonore Coffee and William Joyce Cowen at the Intermont Outdoor Theatre in Bristol, Virginia. Presented by Robert Porterfield in the Virginia Highlands Festival.</dcterms:description>
+   <dcterms:language>eng</dcterms:language>
+   <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
+   <dcterms:subject>Theater</dcterms:subject>
+   <dcterms:subject>Virginia</dcterms:subject>
+   <dcterms:created>1953-08-10/1953-05-15</dcterms:created>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:medium>posters</dcterms:medium>
+   <dcterms:format>image/jpeg</dcterms:format>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+   <edm:isShownAt>https://di.lib.vt.edu/items/show/3414</edm:isShownAt>
+   <edm:preview>https://di.lib.vt.edu/files/thumbnails/1/BTR_BTR_000473/BTR_BTR_000473_0001.jpg</edm:preview>
+</mdRecord>

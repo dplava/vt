@@ -1,29 +1,24 @@
-<?xml
-version="1.0"
-encoding="UTF-8"?>
-<mdRecord xmlns="http://dplava.lib.virginia.edu"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns:edm="http://www.europeana.eu/schemas/edm/"
-    xsi:schemaLocation="http://dplava.lib.virginia.edu
-dplava.xsd">
-    <dcterms:identifier>BTR_BTR_000052</dcterms:identifier>
-    <dcterms:title>Beverly's Diner</dcterms:title>
-    <dcterms:description>Production pamphlet cover for Beverly's Diner, Pigeon
-        Forge</dcterms:description>
-    <dcterms:language>eng</dcterms:language>
-    <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
-    <dcterms:subject>Theater</dcterms:subject>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:type>Image</dcterms:type>
-    <dcterms:isPartOf>Barter Theatre Archives</dcterms:isPartOf>
-    <dcterms:spatial>Abingdon, Washington county, Virginia, United States</dcterms:spatial>
-    <dcterms:medium>pamphlet</dcterms:medium>
-    <dcterms:format>image/jpeg</dcterms:format>
-    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
-    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
-        Libraries</dcterms:provenance>
-    <edm:isShownAt>https://di.lib.vt.edu/items/show/434</edm:isShownAt>
-    <edm:preview>https://di.lib.vt.edu/files/thumbnails/1/BTR_BTR_000052/BTR_BTR_000052_0001.jpg</edm:preview>
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>BTR_BTR_000052</dcterms:identifier>
+   <dcterms:title>Beverly&amp;#039;s Diner by K.C. Wilson and Jim Baker Front</dcterms:title>
+   <dcterms:description>Playbill for Beverly&amp;#039;s Diner by K.C. Wilson and Jim Baker. Director: Richard Rose. Costume Designer &amp;amp; Choreographer: Amanda Aldridge. Musical Supervision: Winston Clark. Musical Director: Jules Cohen. Scenic Designer: DaNeil Ettinger. Lighting Designer: David Friedl. Dramaturg: Joseph Kline. Sound Designer: Scott Koenig. Stage Manager: Connie M. Silver. Listed Musical Numbers: Maybe Tomorrow, Claudette, Rip it Up, Devoted to You, I Wonder if I Care As Much, When Will I be Loved, &amp;#039;till I kissed ya, Poor Jenny, Let it Be Me, Bird Dog, Rip it Up (Reprise), Wake Up Little Susie, Ebony Eyes, Cathy&amp;#039;s Clown, Walk Right Back, Be-Bop-A-Lula, All I Have to Do is Dream, Amazing Grace/I&amp;#039;ll Fly Away, Bye Bye Love, Maybe Tomorrow (Reprise), Wake Up Little Susie/All I Have to do is Dream/Bird Dog (Medley). Actors include Jeffery Brocklin, John Fairlie. Percussionist: Todd Corcoran. Guitarist: David Baker. Setting: Beverly&amp;#039;s Diner, Pigeon Forge, Tennessee.</dcterms:description>
+   <dcterms:language>eng</dcterms:language>
+   <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
+   <dcterms:subject>Theater</dcterms:subject>
+   <dcterms:subject>Virginia</dcterms:subject>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:isPartOf>Barter Theatre Archives</dcterms:isPartOf>
+   <dcterms:medium>playbills</dcterms:medium>
+   <dcterms:format>image/jpeg</dcterms:format>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+   <edm:isShownAt>https://di.lib.vt.edu/items/show/434</edm:isShownAt>
+   <edm:preview>https://di.lib.vt.edu/files/thumbnails/1/BTR_BTR_000052/BTR_BTR_000052_0001.jpg</edm:preview>
 </mdRecord>

@@ -1,29 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mdRecord xmlns="http://dplava.lib.virginia.edu"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns:edm="http://www.europeana.eu/schemas/edm/"
-    xsi:schemaLocation="http://dplava.lib.virginia.edu
-dplava.xsd">
-    <dcterms:identifier>BTR_BTR_000503</dcterms:identifier>
-    <dcterms:title>Walt Whitman: Liberal and Lusty as Nature by Will Stutts</dcterms:title>
-    <dcterms:description>Playbill for Walt Whitman: Liberal and Lusty as Nature by Will Stutts.
-        Presented at Barter Theatre. Producing Director: Rex Partington. Directed by Greg Giovanni.
-        1992 Guest Artist Series.</dcterms:description>
-    <dcterms:language>eng</dcterms:language>
-    <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
-    <dcterms:subject>Theater</dcterms:subject>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:created>1992</dcterms:created>
-    <dcterms:type>image</dcterms:type>
-    <dcterms:isPartOf>Barter Theatre Archives</dcterms:isPartOf>
-    <dcterms:spatial>Abingdon, Washington county, Virginia, United States</dcterms:spatial>
-    <dcterms:medium>playbills</dcterms:medium>
-    <dcterms:format>image/jpeg</dcterms:format>
-    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
-    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
-        Libraries</dcterms:provenance>
-    <edm:isShownAt>https://di.lib.vt.edu/items/show/1723</edm:isShownAt>
-    <edm:preview>https://di.lib.vt.edu/files/thumbnails/1/BTR_BTR_000503/BTR_BTR_000503_0001.jpg</edm:preview>
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>BTR_BTR_000503</dcterms:identifier>
+   <dcterms:title>Walt Whitman: Liberal, and Lusty as Nature by Will Stutts</dcterms:title>
+   <dcterms:description>Playbill for the play Walt Whitman: Liberal, and Lusty as Nature by Will Stutts. Produced by Rex Partington, directed by Greg Giovanni, production design by Steven Keever, costume design by Sandra-Christine, lighting design by John Broadus, stage manager by Jerry Matheny. Cast: Will Stutts as Walt Whitman. 1992 Guest Artist Series. Staff for the Barter Theatre: Artistic director: Rex Partington. Business Manager: Pearl Hayter. Director of marketing and promotions: Lori Ward. Sales manager: Robin Carmack. Company manager/production secretary: Bettina Jeffers. Promotions assistant: Leslie Peterson. Administrative clerk: Kathy Tate. production manager: Tony Partington. Scene shop foreman/master carpenter: Gray DaNeil. Technical consultant/master carpenter: Greg Owens. Master carpenter: William Gore. Master electrician: William J. Sauerbrey III. Electrician: John Broadus. Properties manager: David Montgomery. Properties artisan/production associate: Matthew Brown. Properties assistant: Marjorie Terry. Costume shop manager: Stacey B. Riley. Costumer: Kathryn K. Conrad. Youth stage coordinator: John Hardy. Production stage manager: Myrle Curry. Playhouse stage manager: Jerry Matheny. Day box office manager: Delores Moore. Evening box office manager: Allison Linder. Buildings and grounds: Amos Gobble, Garnett Fields. Housekeeper: Susanne Boulle, Nicholas Piper. Acting fellows ensemble: Jeff Gillenwater, Morrisa Harr, Penny Henderson, James Hubbert, Tricia Kelly, Renee Miller, Sheryl Ogg, Tom Roddy, Jeremy S. Van Meter. Apprentices: Candy Barefoot, Amanda Dooley, Scott Talbutt.</dcterms:description>
+   <dcterms:language>eng</dcterms:language>
+   <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
+   <dcterms:subject>Theater</dcterms:subject>
+   <dcterms:subject>Virginia</dcterms:subject>
+   <dcterms:created>1992</dcterms:created>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:isPartOf>Barter Theatre Archives</dcterms:isPartOf>
+   <dcterms:medium>playbills</dcterms:medium>
+   <dcterms:format>image/jpeg</dcterms:format>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+   <edm:isShownAt>https://di.lib.vt.edu/items/show/1723</edm:isShownAt>
+   <edm:preview>https://di.lib.vt.edu/files/thumbnails/1/BTR_BTR_000503/BTR_BTR_000503_0001.jpg</edm:preview>
 </mdRecord>

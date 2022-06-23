@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>BTR_BTR_000265</dcterms:identifier>
+   <dcterms:title>1982 Season</dcterms:title>
+   <dcterms:description>Poster for the 1982 Barter Theatre season, 50th Anniversary. Productions include: Love&amp;#039;s Labour&amp;#039;s Lost by William Shakespeare, April 30- May 22 | You Can&amp;#039;t Take it With You by George S. Kauffman and Moss Hart, June 9-27 | Hedda Gabler by Henrik Ibsen, June 30- July 18 | Matchmaker by Thornton Wilder, July 21- Aug 8 | Tintypes by Mary Kyte, Mel Marvin, Gary Pearle, Aug 11-29 | I Ought to be in Pictures by Neil Simon, Sep 1-26 | Mousetrap by Agatha Christie, Sep 29- Oct 31.</dcterms:description>
+   <dcterms:language>eng</dcterms:language>
+   <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
+   <dcterms:subject>Theater</dcterms:subject>
+   <dcterms:subject>Virginia</dcterms:subject>
+   <dcterms:created>1982-04-30/1982-10-31</dcterms:created>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:medium>posters</dcterms:medium>
+   <dcterms:format>image/jpeg</dcterms:format>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+   <edm:isShownAt>https://di.lib.vt.edu/items/show/3383</edm:isShownAt>
+   <edm:preview>https://di.lib.vt.edu/files/thumbnails/1/BTR_BTR_000265/BTR_BTR_000265_0001.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>BTR_BTR_000130</dcterms:identifier>
+   <dcterms:title>1992 Guest Artist Series</dcterms:title>
+   <dcterms:description>Poster for the Barter Theatre 1992 Guest Artist Series. Productions include Gospel According to St. Mark, with Tom Stolz, May 12-31 | Ruth Draper&amp;#039;s Cast of Characters, with Patrizia Norcia, June 2-14 | Escoffier: King of Chefs, with Owen S. Rackleff, June 16-28 | Love Letters by A. R. Gurney, June 30- July 12 | Walt Whitman: Liberal and Lusty as Nature, July 14-26.</dcterms:description>
+   <dcterms:language>eng</dcterms:language>
+   <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
+   <dcterms:subject>Theater</dcterms:subject>
+   <dcterms:subject>Virginia</dcterms:subject>
+   <dcterms:created>1992-05-12/1992-07-26</dcterms:created>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:medium>posters</dcterms:medium>
+   <dcterms:format>image/jpeg</dcterms:format>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+   <edm:isShownAt>https://di.lib.vt.edu/items/show/3370</edm:isShownAt>
+   <edm:preview>https://di.lib.vt.edu/files/thumbnails/1/BTR_BTR_000130/BTR_BTR_000130_0001.jpg</edm:preview>
+</mdRecord>

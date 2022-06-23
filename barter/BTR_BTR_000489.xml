@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>BTR_BTR_000489</dcterms:identifier>
+   <dcterms:title>Bubba by Sam Havens</dcterms:title>
+   <dcterms:title>Mousetrap [by] Agatha Christie</dcterms:title>
+   <dcterms:title>Never Too Late</dcterms:title>
+   <dcterms:description>Poster for Bubba by Sam Havens, Aug 31-Sep 18 | Mousetrap [by] Agatha Christie, Sep 21-28, Oct 2, 6-8, 11, 13, 15, 19, 21, 23 | Never Too Late, Sep 29- Oct 1, 4-5, 9, 12, 14, 16, 18, 20, 22, 25-30.</dcterms:description>
+   <dcterms:language>eng</dcterms:language>
+   <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
+   <dcterms:subject>Theater</dcterms:subject>
+   <dcterms:subject>Virginia</dcterms:subject>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:medium>posters</dcterms:medium>
+   <dcterms:format>image/jpeg</dcterms:format>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+   <edm:isShownAt>https://di.lib.vt.edu/items/show/3417</edm:isShownAt>
+   <edm:preview>https://di.lib.vt.edu/files/thumbnails/1/BTR_BTR_000489/BTR_BTR_000489_0001.jpg</edm:preview>
+</mdRecord>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>BTR_BTR_000461</dcterms:identifier>
+   <dcterms:title>Two Gentlemen of Verona by Shakespeare</dcterms:title>
+   <dcterms:title>Mousetrap by Agatha Christie</dcterms:title>
+   <dcterms:description>Postcard advertising play Two Gentlemen of Verona by Shakespeare, April 4-22 | Mousetrap by Agatha Christie, April 25- June 3, at the 1978 Spring Festival in Abingdon, Virginia.</dcterms:description>
+   <dcterms:language>eng</dcterms:language>
+   <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
+   <dcterms:subject>Theater</dcterms:subject>
+   <dcterms:subject>Virginia</dcterms:subject>
+   <dcterms:created>1978-04-04/1978-06-03</dcterms:created>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:medium>postcards</dcterms:medium>
+   <dcterms:format>image/jpeg</dcterms:format>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+   <edm:isShownAt>https://di.lib.vt.edu/items/show/3404</edm:isShownAt>
+   <edm:preview>https://di.lib.vt.edu/files/thumbnails/1/BTR_BTR_000461/BTR_BTR_000461_0001.jpg</edm:preview>
+</mdRecord>

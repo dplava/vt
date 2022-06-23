@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>BTR_BTR_000271</dcterms:identifier>
+   <dcterms:title>1985 Season</dcterms:title>
+   <dcterms:description>Poster for the 1985 Barter Theatre season. Productions include: Nightingale Sang by C.P. Taylor, June 5- 23 | Billy Bishop Goes to War by John Gray and Eric Peterson, June 12- July 7 | Agnes of God by John Pielmeier, June 26- July 14 | Sea Marks by Gardner McKay, July 10- Aug 4 | My Fat Friend by Charles Laurence, July 17- Aug 4 | Belle of Amherst by William Luce, Aug 6-11 | Painting Churches by Tina Howe, Aug 7-25 | Educating Rita by Willy Russell, Aug 14- Sep 8 | Guardsman by Ferenc Molar, Aug 28- Sep 15 | Greater Tuna by Jaston Williams, Joe Sears, Ed Howard, Sep 18- Oct 6 | Twice Around the Park by Murray Schisgal, Oct 9- 27. Youth Theatre programs: Merry Adventures of Robin Hood, June 19- July 13 | Fairy Tales and Fables, July 24- Aug 17.</dcterms:description>
+   <dcterms:language>eng</dcterms:language>
+   <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
+   <dcterms:subject>Theater</dcterms:subject>
+   <dcterms:subject>Virginia</dcterms:subject>
+   <dcterms:created>1985-06-05/1985-10-27</dcterms:created>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:medium>posters</dcterms:medium>
+   <dcterms:format>image/jpeg</dcterms:format>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+   <edm:isShownAt>https://di.lib.vt.edu/items/show/3384</edm:isShownAt>
+   <edm:preview>https://di.lib.vt.edu/files/thumbnails/1/BTR_BTR_000271/BTR_BTR_000271_0001.jpg</edm:preview>
+</mdRecord>

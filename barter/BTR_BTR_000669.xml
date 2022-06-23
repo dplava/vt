@@ -1,34 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mdRecord xmlns="http://dplava.lib.virginia.edu"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns:edm="http://www.europeana.eu/schemas/edm/"
-    xsi:schemaLocation="http://dplava.lib.virginia.edu
-dplava.xsd">
-    <dcterms:identifier>BTR_BTR_000669</dcterms:identifier>
-    <dcterms:title>Don't Dress for Dinner by Marc Camoletti May 15-June 14</dcterms:title>
-    <dcterms:title>Bear Facts by Jo Carson July 2-August 30</dcterms:title>
-    <dcterms:title>Travels with my Aunt by Graham Greene June 25-August 31</dcterms:title>
-    <dcterms:title>Alice...Through the Picture Tube by Ed Sala July 3-August 30</dcterms:title>
-    <dcterms:title>Camelot by Alan Jay Lerner June 18-August 31</dcterms:title>
-    <dcterms:description>Playbill for Don't Dress for Dinner by Marc Camoletti, directed by Peter
-        Bennet|Camelot by Alan J. Lerner, directed by Richard Rose|Alice...Through the Picture Tube
-        by Ed Sala, directed by Paul Ferguson|Travels with my Aunt by Graham Greene, directed by
-        Susanne Boulle|Bear Facts by Jo Carson, directed by Lisa Mount.</dcterms:description>
-    <dcterms:language>eng</dcterms:language>
-    <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
-    <dcterms:subject>Theater</dcterms:subject>
-    <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:created>1997-05-15/1997-08-31</dcterms:created>
-    <dcterms:type>image</dcterms:type>
-    <dcterms:isPartOf>Barter Theatre Archives</dcterms:isPartOf>
-    <dcterms:spatial>Abingdon, Washington county, Virginia, United States</dcterms:spatial>
-    <dcterms:medium>playbills</dcterms:medium>
-    <dcterms:format>image/jpeg</dcterms:format>
-    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
-    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
-        Libraries</dcterms:provenance>
-    <edm:isShownAt>https://di.lib.vt.edu/items/show/1856</edm:isShownAt>
-    <edm:preview>https://di.lib.vt.edu/files/thumbnails/1/BTR_BTR_000669/BTR_BTR_000669_0001.jpg</edm:preview>
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>BTR_BTR_000669</dcterms:identifier>
+   <dcterms:title>Summer Festival of Fun</dcterms:title>
+   <dcterms:description>Playbill for the Barter Theatre Summer Festival of Fun. Productions inlcude: Don&amp;#039;t Dress for Dinner, May 15- June 14 | Bear Facts, July 2- Aug 30 | Travels With my Aunt, June 25- Aug 31 | Alice... Through the Picture Tube, July 3- Aug 30 | Camelot, June 18- Aug 31.</dcterms:description>
+   <dcterms:language>eng</dcterms:language>
+   <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
+   <dcterms:subject>Theater</dcterms:subject>
+   <dcterms:subject>Virginia</dcterms:subject>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:isPartOf>Barter Theatre Archives</dcterms:isPartOf>
+   <dcterms:medium>playbills</dcterms:medium>
+   <dcterms:format>image/jpeg</dcterms:format>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+   <edm:isShownAt>https://di.lib.vt.edu/items/show/1856</edm:isShownAt>
+   <edm:preview>https://di.lib.vt.edu/files/thumbnails/1/BTR_BTR_000669/BTR_BTR_000669_0001.jpg</edm:preview>
 </mdRecord>
