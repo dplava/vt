@@ -13,7 +13,8 @@
    <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
    <dcterms:subject>Theater</dcterms:subject>
    <dcterms:subject>Virginia</dcterms:subject>
-   <dcterms:type>StillImage</dcterms:type>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:isPartOf>Barter Theatre Archives</dcterms:isPartOf>
    <dcterms:medium>postcards</dcterms:medium>
    <dcterms:format>image/jpeg</dcterms:format>
    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
