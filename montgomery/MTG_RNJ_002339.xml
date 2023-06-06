@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>MTG_RNJ_002339</dcterms:identifier>
+   <dcterms:title>Radford News Journal (East Radford, VA), 67th Year, No. 298, Saturday, January 20, 1951</dcterms:title>
+   <dcterms:description>Newspaper from Radford, Virginia that includes local news and advertisements</dcterms:description>
+   <dcterms:subject>Radford (Va.)</dcterms:subject>
+   <dcterms:subject>Montgomery County (Va.)</dcterms:subject>
+   <dcterms:subject>Newspapers</dcterms:subject>
+   <dcterms:created>1951-01-20</dcterms:created>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:isPartOf>Montgomery Newspaper Collection</dcterms:isPartOf>
+   <dcterms:extent>6 pages</dcterms:extent>
+   <dcterms:format>image/jpeg</dcterms:format>
+   <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+   <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+   <edm:isShownAt>https://di.lib.vt.edu/items/show/MTG_RNJ_002339</edm:isShownAt>
+   <edm:preview>https://di.lib.vt.edu/files/thumbnails/20/MTG_RNJ_002339/MTG_RNJ_002339_0001.jpg</edm:preview>
+</mdRecord>
