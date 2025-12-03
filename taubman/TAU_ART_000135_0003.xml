@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>TAU_ART_000135_0003</dcterms:identifier>
+    <dcterms:title>GRAY MATTER</dcterms:title>
+    <dcterms:description>Karen Holzberg has always been fascinated with the human form and the implicit drama of Italian renaissance art. Holzberg's works such as Gray Matter depict a three quarter view of a young man gazing upward as if toward Heaven, highlighting the strength and vulnerability of the human body.</dcterms:description>
+    <dcterms:subject>Virginia,Art,PHOTOGRAPH</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:medium>Toned photograph with graphite</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and tate University. University Libraries (Digital)</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/6e72af34</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000135_0003-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:creator>HOLZBERG, KAREN (United tates, Born 1963)</dcterms:creator>
+    <dcterms:date>2024-11-13</dcterms:date>
+</mdRecord>

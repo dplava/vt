@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>TAU_ART_000134_0001</dcterms:identifier>
+    <dcterms:title>BECOMING</dcterms:title>
+    <dcterms:description>Abstract painter Lois Bartlett Tracy was well known for her use of color. Hailed as a visionary artist , Tracy, whose work had been shown in exhibitions throughout the country, founded an artist colony in Englewood, Florida in the 1960s and taught college-level art courses at several universities. Her work was loosely inspired by the Florida landscape and was characterized by bright colors and swirling movement.</dcterms:description>
+    <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:medium>Oil Canvas</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and tate University. University Libraries (Digital)</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/56ecff30</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000134_0001-1/full/199,/0/default.jpg</edm:preview>
+    <dcterms:creator>TRACY, LOI BARTLETT (United tates, 1901-2008)</dcterms:creator>
+    <dcterms:date>2024-11-13</dcterms:date>
+</mdRecord>

@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>TAU_ART_000127_0004</dcterms:identifier>
+    <dcterms:title>FRAMED</dcterms:title>
+    <dcterms:description>Norman Rockwell was a keen observer and storyteller. Between 1916 and 1963, Rockwell painted 323 paintings that were reproduced on the cover of the popular magazine, aturday Evening Post. Framed appeared on the cover on March 2, 1946. It is one of three Post cover paintings that feature artworks reacting to actions outside of their frames. Framed was acquired by the Taubman Museum of Art in 2003 with the Horace G. Fralin Charitable trust to develop an important collection of American Art by artists working from the late 1800s to the mid 1900s. Those works became the core of the Horace G. and Ann H. Fralin Center for American Art at the museum.</dcterms:description>
+    <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:medium>Oil and graphite Canvas with wood</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and tate University. University Libraries (Digital)</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/2ea2261f</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000127_0004-1/full/193,/0/default.jpg</edm:preview>
+    <dcterms:creator>ROCKWELL, NORMAN (United tates, 1894-1978)</dcterms:creator>
+    <dcterms:date>2024-11-13</dcterms:date>
+</mdRecord>

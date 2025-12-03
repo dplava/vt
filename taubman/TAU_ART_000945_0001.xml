@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>TAU_ART_000945_0001</dcterms:identifier>
+    <dcterms:title>UBCRIPTION TICKET FOR THE HARLOT' PROGRE, 1782 RECEIPT FOR FIRT PAYMENT ON MOE BROUGHT TO PHAROAH' DAUGHTER AND T. PAUL BEFORE FELIX, 1782 AND RECEIPT FOR PAYMENT ON A MARCH TO FINCHLY, 1746</dcterms:title>
+    <dcterms:description>Receipt for Payment for a March on Finchly</dcterms:description>
+    <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:medium>Engraving</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and tate University. University Libraries (Digital)</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/55f2d89a</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000945_0001-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:creator>HOGARTH, WILLIAM (British, 1697-1764)</dcterms:creator>
+    <dcterms:date>2024-11-13</dcterms:date>
+</mdRecord>

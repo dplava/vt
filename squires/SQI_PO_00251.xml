@@ -4,24 +4,21 @@
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu
 dplava.xsd">
+
     <dcterms:identifier>SQI_PO_00251</dcterms:identifier>
     <dcterms:title>Open Auditions Oct 10 - Oct 11</dcterms:title>
-    <dcterms:description>Poster for Open Auditions for Arthur Kopit's Oh Dad, Poor Dad, Mamma's Hung
-        You in the Closet and I'm Feelin' So Sad and Paul Zindel's The Effect of Gamma Rays on Man -
-        In - The - Moon Marigolds.</dcterms:description>
+    <dcterms:description>Poster for Open Auditions for Arthur Kopit's Oh Dad, Poor Dad, Mamma's Hung You in the Closet and I'm Feelin' So Sad and Paul Zindel's The Effect of Gamma Rays on Man - In - The - Moon Marigolds.</dcterms:description>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:contributor>Virginia Polytechnic Institute and State University. Theatre Arts -
-        University Theatre</dcterms:contributor>
-    <dcterms:subject>Theater</dcterms:subject>
+    <dcterms:contributor>Virginia Polytechnic Institute and State University. Theatre Arts - University Theatre</dcterms:contributor>
+    <dcterms:subject>Auditions</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
-    <dcterms:isPartOf>Squires Theatre Posters</dcterms:isPartOf>
-    <dcterms:spatial>Blacksburg, Montgomery county, Virginia, United States</dcterms:spatial>
+    <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
-    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
-    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
-        Libraries</dcterms:provenance>
-    <edm:isShownAt>https://di.lib.vt.edu/items/show/351</edm:isShownAt>
-    <edm:preview>https://di.lib.vt.edu/files/thumbnails/2/SQI_PO_00251/SQI_PO_00251_001.jpg</edm:preview>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/1852928n</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/SQI_PO/tiles/SQI_PO_00251-1/full/215,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-09-17</dcterms:date>
 </mdRecord>

@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>TAU_ART_001164_0003</dcterms:identifier>
+    <dcterms:title>3-PAGE CENE 4 GEIHA ERVING MAN IN MOONLIGHT</dcterms:title>
+    <dcterms:description>Tryptic</dcterms:description>
+    <dcterms:subject>Virginia,Art,PRINT</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:medium>woodblock print (crepe paper pasted to support)</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and tate University. University Libraries (Digital)</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/c4051b4d</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_001164_0003-1/full/179,/0/default.jpg</edm:preview>
+    <dcterms:creator>(\Japanese, dates unknown\)</dcterms:creator>
+    <dcterms:date>2024-11-13</dcterms:date>
+</mdRecord>

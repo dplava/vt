@@ -4,27 +4,21 @@
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu
 dplava.xsd">
+
     <dcterms:identifier>SQI_PO_00165</dcterms:identifier>
-    <dcterms:title>2008-2009 Season Theatre at Virginia Tech</dcterms:title>
-    <dcterms:description>Production poster for 2008-2009 Season Theatre at Virginia Tech. Plays: A
-        Skull in Connemara | Iphigenia 2.0 | Trestle at Pope Lick Creek | Her Sexy
-        Outfit</dcterms:description>
+    <dcterms:title>Theatre at Virginia Tech 2008-2009 Season</dcterms:title>
+    <dcterms:description>Production poster for 2008-2009 Season Theatre at Virginia Tech. Plays: A Skull in Connemara by Martin McDonagh | Iphigenia 2.0 by Charles Mee | Trestle at Pope Lick Creek by Naomi Wallace | Her Sexy Outfit from Lysistrata by Aristophanes, adaptation by Daniel Zippi.</dcterms:description>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:contributor>Virginia Polytechnic Institute and State University. Department of Theatre
-        Arts</dcterms:contributor>
-    <dcterms:contributor>Virginia Polytechnic Institute and State University. School of Performing
-        Arts and Cinema</dcterms:contributor>
+    <dcterms:contributor>Virginia Polytechnic Institute and State University. Department of Theatre Arts; Virginia Polytechnic Institute and State University. School of Performing Arts and Cinema</dcterms:contributor>
     <dcterms:subject>Theater</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:created>2008/2009</dcterms:created>
     <dcterms:type>Image</dcterms:type>
-    <dcterms:isPartOf>Squires Theatre Posters</dcterms:isPartOf>
-    <dcterms:spatial>Blacksburg, Montgomery county, Virginia, United States</dcterms:spatial>
+    <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
-    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
-    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
-        Libraries</dcterms:provenance>
-    <edm:isShownAt>https://di.lib.vt.edu/items/show/289</edm:isShownAt>
-    <edm:preview>https://di.lib.vt.edu/files/thumbnails/2/SQI_PO_00165/SQI_PO_00165_001.jpg</edm:preview>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/s516w56f</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/SQI_PO/tiles/SQI_PO_00165-1/full/131,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-09-17</dcterms:date>
 </mdRecord>

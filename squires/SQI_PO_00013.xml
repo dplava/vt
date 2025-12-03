@@ -4,22 +4,20 @@
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu
 dplava.xsd">
+
     <dcterms:identifier>SQI_PO_00013</dcterms:identifier>
     <dcterms:title>New River Valley Symphony 1993</dcterms:title>
-    <dcterms:description>Production poster for New River Valley Symphony. Programs include Water
-        Music | Horn Concerto No. 1 | Concertpiece for Four Horns, Op. 68 | Finale, Symphony No. 1,
-        D major ("Titan")</dcterms:description>
+    <dcterms:description>Production poster for New River Valley Symphony. Programs include: Water Music | Horn Concerto No. 1 | Concertpiece for Four Horns, Op. 68 | Finale, Symphony No. 1, D major (\\\"Titan\\\")</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
     <dcterms:subject>Concerts</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
-    <dcterms:created>1993-02-27</dcterms:created>
     <dcterms:type>Image</dcterms:type>
-    <dcterms:isPartOf>Squires Theatre Posters</dcterms:isPartOf>
-    <dcterms:spatial>Blacksburg, Montgomery county, Virginia, United States</dcterms:spatial>
+    <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
-    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
-    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
-        Libraries</dcterms:provenance>
-    <edm:isShownAt>https://di.lib.vt.edu/items/show/19</edm:isShownAt>
-    <edm:preview>https://di.lib.vt.edu/files/thumbnails/2/SQI_PO_00013/SQI_PO_00013_001.jpg</edm:preview>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/2d64pm4r</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/SQI_PO/tiles/SQI_PO_00013-1/full/216,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-09-17</dcterms:date>
 </mdRecord>

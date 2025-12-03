@@ -1,0 +1,25 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>CRW_CRW_000058</dcterms:identifier>
+    <dcterms:title>Wage rate</dcterms:title>
+    <dcterms:description>This item is part of Minutes of the Crewe Town Council 1977-1978 (CRW_CRW_000051)</dcterms:description>
+    <dcterms:language>English</dcterms:language>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:subject>Crewe (Va.)</dcterms:subject>
+    <dcterms:subject>Railroads</dcterms:subject>
+    <dcterms:subject>Minutes (Records)</dcterms:subject>
+    <dcterms:type>Text</dcterms:type>
+    <dcterms:medium>government records</dcterms:medium>
+    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/vh54cv6w</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/CRW/tiles/CRW_CRW_000058-1/full/167,/0/default.jpg</edm:preview>
+    <dcterms:creator>Town of Crewe. Town Office</dcterms:creator>
+    <dcterms:date>2024-09-17</dcterms:date>
+</mdRecord>

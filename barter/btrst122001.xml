@@ -1,0 +1,24 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>btrst122001</dcterms:identifier>
+    <dcterms:title>1993 Season</dcterms:title>
+    <dcterms:description>Poster for the 1993 Barter Theatre season. Programs include: Miracle Worker: April 13- May 8 | Lend Me a Tenor, May 12- June 12 | Nunsense, June 2- Aug 1 | Cocktail Hour, June 16- July 10 | Funny Thing Happened on the Way to the Forum, July 14- Aug 15 | Frankie and Johnny in Clair deLune, Aug 4-29 | Kuru, Aug 18- Sept 11 | Other People's Money, Sept 15- Oct 9 | Dracula, Oct 13- Nov 7.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
+    <dcterms:subject>Theater</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>Still Image</dcterms:type>
+    <dcterms:medium>posters</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>The original object is the property of the Barter Theatre in Abingdon, VA (https://www.bartertheatre.com/). This digital surrogate is made publicly available by the Barter Theatre for use in research, teaching, private study, and other educational purposes. Responsibility for any use of these materials rests exclusively with the user. When using this item, users should give proper credit to the owner of the original object as well as to Virginia Tech Libraries.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/6r66bw57</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/BTR/tiles/btrst122001-1/full/167,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-09-17</dcterms:date>
+</mdRecord>

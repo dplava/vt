@@ -4,23 +4,21 @@
     xmlns:edm="http://www.europeana.eu/schemas/edm/"
     xsi:schemaLocation="http://dplava.lib.virginia.edu
 dplava.xsd">
+
     <dcterms:identifier>SQI_PO_00097</dcterms:identifier>
     <dcterms:title>American College Theatre Festival XV</dcterms:title>
-    <dcterms:description>Production posters for American College Theatre Festival
-        XV.</dcterms:description>
+    <dcterms:description>Production posters for American College Theatre Festival XV.</dcterms:description>
     <dcterms:language>eng</dcterms:language>
-    <dcterms:contributor>John F. Kennedy Center for the Performing Arts (U.S.)</dcterms:contributor>
-    <dcterms:contributor>American Theatre Association. University and College Theatre
-        Association</dcterms:contributor>
+    <dcterms:contributor>John F. Kennedy Center for the Performing Arts (U.S.); University and College Theatre Association (U.S.) (producer); U.S. Department of Education (supporter); Amoco companies (sponsor)</dcterms:contributor>
     <dcterms:subject>Theater</dcterms:subject>
     <dcterms:subject>Virginia</dcterms:subject>
     <dcterms:type>Image</dcterms:type>
-    <dcterms:isPartOf>Squires Theatre Posters</dcterms:isPartOf>
+    <dcterms:spatial>Blacksburg, Montgomery, Virginia, United States</dcterms:spatial>
     <dcterms:medium>posters</dcterms:medium>
-    <dcterms:format>image/jpeg</dcterms:format>
+    <dcterms:format>image/tiff</dcterms:format>
     <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
-    <dcterms:provenance>Virginia Polytechnic Institute and State University. University
-        Libraries</dcterms:provenance>
-    <edm:isShownAt>https://di.lib.vt.edu/items/show/239</edm:isShownAt>
-    <edm:preview>https://di.lib.vt.edu/files/thumbnails/2/SQI_PO_00097/SQI_PO_00097_001.jpg</edm:preview>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/6p64q202</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/SQI_PO/tiles/SQI_PO_00097-1/full/162,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-09-17</dcterms:date>
 </mdRecord>

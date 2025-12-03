@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>TAU_ART_000129_0001</dcterms:identifier>
+    <dcterms:title>UNTITLED</dcterms:title>
+    <dcterms:description>Artist and teacher Gerald (Gerry) Donato earned his MA and B degrees from Northern Illinois University and an MFA from the University of Wisconsin Madison. A long-term professor of studio art at Virginia Commonwealth university, Donato employed visual references taken from popular culture from New York's Bowery, Italy, and Paris and the Richmond art scene to create his paintings. His appropriation of an early Disney precursor to Mickey Mouse, known as \teamboat Willie\ renamed \Mr. Man\ by Donato, pops up routinely, as seen in Untitled. Rendered in simple gestures, often, Mr. Man is paired with a mysterious feminine muse the artist calls \Moon-face.\</dcterms:description>
+    <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:medium>Oil on canvas</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and tate University. University Libraries (Digital)</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/c43b12d0</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000129_0001-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:creator>DONATO, GERALD (United tates, 1941 - 2010)</dcterms:creator>
+    <dcterms:date>2024-11-13</dcterms:date>
+</mdRecord>

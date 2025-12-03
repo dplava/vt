@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>TAU_ART_000114_0001</dcterms:identifier>
+    <dcterms:title>MR. MARTIN</dcterms:title>
+    <dcterms:description>Figurative painter Anne Bell was educated at the university of Georgia and studied at the High Museum of Art in Atlanta. ince 1978 she has had numerous exhibitions and portrait commissions. Her method in approaching her subject is unique \I paint in a realistic and sensitive style which not only portrays my subjects in a realistic fashion, but captures the mood and subtle nuances of the setting.\ Bell's painting Mr. Martin presents a common fixture at the downtown farmer's market. With his portrait, Bell looked to depict \the nostalgia of our lovely market historical area.\</dcterms:description>
+    <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:medium>Oil Board</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and tate University. University Libraries (Digital)</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/c32107bb</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000114_0001-1/full/184,/0/default.jpg</edm:preview>
+    <dcterms:creator>BELL, ANNE (United tates, Born 1935)</dcterms:creator>
+    <dcterms:date>2024-11-13</dcterms:date>
+</mdRecord>

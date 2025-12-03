@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>TAU_ART_000124_0001</dcterms:identifier>
+    <dcterms:title>THE PIRATE HOUE OF HARRY MAIN</dcterms:title>
+    <dcterms:description>Born in Ipswich, Massachusetts, Dow traveled to Paris to study at the Academie Julian and studied the work of british designer William Morris. Considered one of the most influential teachers of his time in the field of arts and crafts, one of Dow's most well known students was artist Georgia O'Keeffe. Deeply influenced by Japanese art and aesthetics, Dow sought out subjects such as architectural elements and natural landscapes mainly located on Boston's North hore, which he felt were best suited to his Asian inspired appreciation of nature.</dcterms:description>
+    <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:medium>Oil Canvas</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and tate University. University Libraries (Digital)</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/bc9f38b3</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000124_0001-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:creator>DOW, ARTHUR WELEY (United tates, 1857 - 1922)</dcterms:creator>
+    <dcterms:date>2024-11-13</dcterms:date>
+</mdRecord>

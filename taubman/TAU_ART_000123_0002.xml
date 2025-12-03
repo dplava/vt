@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>TAU_ART_000123_0002</dcterms:identifier>
+    <dcterms:title>PORTRAIT OF NORAH GRIBBLE</dcterms:title>
+    <dcterms:description>This evocative piece by argent, one of the greatest portrait artists in American history, is among his largest full-length portraits. He won praise and critical acclaim for his looser approach to brushstrokes and ability to to reveal the psychology of his sitters. argent's Paris studio flourished in the late 1880s until he exhibited the scandalous and widely criticized portrait Madame X, a work he later sold for ¬£1,000 to the Metropolitan Museum of Art in 1916. The tumult drove him out of France and into Britain, where he established a prosperous studio as a portrait painter for wealthy, elite patrons from England and the United tates. The portrait of Norah Gribble (a London based socialite in her early 20s) is particularly notable for its massive scale, lifelike quality, and her alluring glance at the viewer. During argent's career, he painted some 900 oil paintings and more than 2,000 sketches and charcoal drawings.</dcterms:description>
+    <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:medium>Oil on canvas Canvas</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and tate University. University Libraries (Digital)</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/65bf9735</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000123_0002-1/full/131,/0/default.jpg</edm:preview>
+    <dcterms:creator>ARGENT, JOHN INGER (United tates, Born Florence, Italy, 1856-1925)</dcterms:creator>
+    <dcterms:date>2024-11-13</dcterms:date>
+</mdRecord>

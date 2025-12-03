@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>TAU_ART_000132_0001</dcterms:identifier>
+    <dcterms:title>JEU TALE</dcterms:title>
+    <dcterms:description>A nondenominational evangelical preacher, Leroy Almon, r. was an American folk artist who specialized in woodcarving. Born in Tallapoosa, Georgia in 1938, Almon apprenticed to the woodcarving artist Elijah Pierce, and the became lifelong friends. using hand chisels and pocketknives to carve his image in bas relief and then painting them, Almon depicted images from the Bible, as well as the temptations of contemporary life as well as historical and political inspired images.</dcterms:description>
+    <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:medium>Polychrome paint Carved board</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and tate University. University Libraries (Digital)</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/51b6e995</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000132_0001-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:creator>ALMON, LEROY (United tates, 1938 - 1997)</dcterms:creator>
+    <dcterms:date>2024-11-13</dcterms:date>
+</mdRecord>

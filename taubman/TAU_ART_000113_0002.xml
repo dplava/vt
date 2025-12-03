@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>TAU_ART_000113_0002</dcterms:identifier>
+    <dcterms:title>VOYAGE OF THE POLARI</dcterms:title>
+    <dcterms:description>Maritime painter William Bradford was well known for his ship portraiture that employ painstaking precision, clarity and preoccupation with light. Intrigued with the challenge of new artistic frontiers through scientific exploration, he traveled to the New England and Canadian shores and further north into the Arctic area of the Labrador coast. Voyage of the Polaris depicts the 1871 ill-fated arctic exploration vessel icebound in the frozen sea of Thank-God Harbor off the coast of Greenland. En route to its final destination, Captain Francis Hall died mysteriously and it was speculated that the ship's doctor murdered him. hortly thereafter, Polaris struck an iceberg. Bradford's painting depicts a desperate moment of action the 34-man crew quickly off-loading provisions to lighten the ship's weight, but their efforts were unsuccessful. although the crew watched from the frozen tundra as the ship capsized, all members were eventually rescued. Although Bradford did not have direct experience with Polaris, he was familiar with the voyage from published accounts of its expedition.</dcterms:description>
+    <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:medium>Oil Canvas</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and tate University. University Libraries (Digital)</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/6452fdb4</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000113_0002-1/full/250,/0/default.jpg</edm:preview>
+    <dcterms:creator>BRADFORD, WILLIAM (United tates, 1827 - 1892)</dcterms:creator>
+    <dcterms:date>2024-11-13</dcterms:date>
+</mdRecord>

@@ -1,0 +1,24 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>btrst163001</dcterms:identifier>
+    <dcterms:title>1998 Season</dcterms:title>
+    <dcterms:description>Poster for the 1998 season of the Barter Theatre. Artistic Director: Richard Rose. Programs: Adventures of Huckleberry Finn, March 5- April 3, Sponsored by Eastman | Shepherd!, April 1-11, Sponsored by King Pharmaceuticals | All I Really Need to Know I Learned in Kindergarten: A musical adaptation of the stories of Robert Fulghum, April 8-16, Sponsored by Sprint | Diaries of Adam and Eve by Mark Twain, Starring David Birney and Harriet Hall, May 20- June 14, Sponsored by Camberley's Martha Washington Inn | Fiddler on the Roof, June 18-Aug 23, Sponsored by Lebanon Apparel | Tartuffe by MolierÃ©, July 1- Aug 22, Sponsored by Nationsbank and Virginia Chamber of Commerce | Sylvia, June 23-Aug 29, Sponsored by US Airways | Almost like Being in Love: A musical revue of the songs of Alan J. Lerner, July 2-30, Sponsored by US Airways | WMKS: The Christmas Show- 1942, Nov 19- Dec 27, Sponsored by Columbus McKinnon.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
+    <dcterms:subject>Theater</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>Still Image</dcterms:type>
+    <dcterms:medium>posters</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>The original object is the property of the Barter Theatre in Abingdon, VA (https://www.bartertheatre.com/). This digital surrogate is made publicly available by the Barter Theatre for use in research, teaching, private study, and other educational purposes. Responsibility for any use of these materials rests exclusively with the user. When using this item, users should give proper credit to the owner of the original object as well as to Virginia Tech Libraries.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/r2385044</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/BTR/tiles/btrst163001-1/full/164,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-09-17</dcterms:date>
+</mdRecord>

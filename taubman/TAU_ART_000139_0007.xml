@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>TAU_ART_000139_0007</dcterms:identifier>
+    <dcterms:title>ANCETRAL ALTAR # 14</dcterms:title>
+    <dcterms:description>Born in Vietnam in 1977, two years after the fall of aigon, Danh and his family left their home in 1979 and immigrated to the United tates in the early 1980s. The experience of displacement and his eventual trip back to his country of birth inspired the artist to create work exploring his homeland's history using found and natural materials. By inventing a process known as chlorophyll painting, Danh found the perfect metaphor to honor the thousands of people murdered by the Khmer Rouge regime. PRinted on a variety of tropical plants, Danh's portraits of the victims are permanently imprinted into the matrix of the leave's structure.</dcterms:description>
+    <dcterms:subject>Virginia,Art,PHOTOGRAPH</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:medium>Chlorophyll print and resin</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and tate University. University Libraries (Digital)</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/0373d356</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000139_0007-1/full/186,/0/default.jpg</edm:preview>
+    <dcterms:creator>DANH, BINH (Vietnamese, Born 1977)</dcterms:creator>
+    <dcterms:date>2024-11-13</dcterms:date>
+</mdRecord>

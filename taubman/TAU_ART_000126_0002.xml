@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>TAU_ART_000126_0002</dcterms:identifier>
+    <dcterms:title>THE LEED JUG</dcterms:title>
+    <dcterms:description>Considered one of the most successful still life genre painters of his time, Emil Carlsen immigrated to the united tates from Denmark. He studied painting at the Ecole des Beaux-Arts de Copenhagen and the Chicago Academy of Design and at the California chool of Design. Called an \American Chardin\ due to the similarity of his painting technique to 18th century famous french still life painter Jean-Baptiste-imeonChardin, Carlsen's paintings were sought after due to his delicate brushwork and manipulation of light.</dcterms:description>
+    <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:medium>Oil Canvas mounted on board</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and tate University. University Libraries (Digital)</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/841fd277</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000126_0002-1/full/217,/0/default.jpg</edm:preview>
+    <dcterms:creator>CARLEN, EMIL (United tates, 1853 - 1932)</dcterms:creator>
+    <dcterms:date>2024-11-13</dcterms:date>
+</mdRecord>

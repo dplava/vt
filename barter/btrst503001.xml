@@ -1,0 +1,24 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>btrst503001</dcterms:identifier>
+    <dcterms:title>Walt Whitman: Liberal, and Lusty as Nature by Will Stutts</dcterms:title>
+    <dcterms:description>Playbill for the play Walt Whitman: Liberal, and Lusty as Nature by Will Stutts. Produced by Rex Partington, directed by Greg Giovanni, production design by Steven Keever, costume design by Sandra-Christine, lighting design by John Broadus, stage manager by Jerry Matheny. Cast: Will Stutts as Walt Whitman. 1992 Guest Artist Series. Staff for the Barter Theatre: Artistic director: Rex Partington. Business Manager: Pearl Hayter. Director of marketing and promotions: Lori Ward. Sales manager: Robin Carmack. Company manager/production secretary: Bettina Jeffers. Promotions assistant: Leslie Peterson. Administrative clerk: Kathy Tate. production manager: Tony Partington. Scene shop foreman/master carpenter: Gray DaNeil. Technical consultant/master carpenter: Greg Owens. Master carpenter: William Gore. Master electrician: William J. Sauerbrey III. Electrician: John Broadus. Properties manager: David Montgomery. Properties artisan/production associate: Matthew Brown. Properties assistant: Marjorie Terry. Costume shop manager: Stacey B. Riley. Costumer: Kathryn K. Conrad. Youth stage coordinator: John Hardy. Production stage manager: Myrle Curry. Playhouse stage manager: Jerry Matheny. Day box office manager: Delores Moore. Evening box office manager: Allison Linder. Buildings and grounds: Amos Gobble, Garnett Fields. Housekeeper: Susanne Boulle, Nicholas Piper. Acting fellows ensemble: Jeff Gillenwater, Morrisa Harr, Penny Henderson, James Hubbert, Tricia Kelly, Renee Miller, Sheryl Ogg, Tom Roddy, Jeremy S. Van Meter. Apprentices: Candy Barefoot, Amanda Dooley, Scott Talbutt.</dcterms:description>
+    <dcterms:language>eng</dcterms:language>
+    <dcterms:contributor>Barter Theatre (Organization : Abingdon, Va.)</dcterms:contributor>
+    <dcterms:subject>Theater</dcterms:subject>
+    <dcterms:subject>Virginia</dcterms:subject>
+    <dcterms:type>Still Image</dcterms:type>
+    <dcterms:medium>playbills</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>The original object is the property of the Barter Theatre in Abingdon, VA (https://www.bartertheatre.com/). This digital surrogate is made publicly available by the Barter Theatre for use in research, teaching, private study, and other educational purposes. Responsibility for any use of these materials rests exclusively with the user. When using this item, users should give proper credit to the owner of the original object as well as to Virginia Tech Libraries.</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/q545t16v</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/BTR/tiles/btrst503001-1/full/167,/0/default.jpg</edm:preview>
+    <dcterms:date>2024-09-17</dcterms:date>
+</mdRecord>

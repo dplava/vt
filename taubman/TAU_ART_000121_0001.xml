@@ -1,0 +1,22 @@
+<mdRecord xmlns="http://dplava.lib.virginia.edu"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:edm="http://www.europeana.eu/schemas/edm/"
+    xsi:schemaLocation="http://dplava.lib.virginia.edu
+dplava.xsd">
+
+    <dcterms:identifier>TAU_ART_000121_0001</dcterms:identifier>
+    <dcterms:title>DAURA WITH CANE AND BRUHE</dcterms:title>
+    <dcterms:description>panish born and Virginia based painter Pierre Daura was a prominent figure in the development of European modernism. He is known for his participation in the Cercle et Carre, which was a group of artists that promoted geometric construction rather than the irrational abstraction by the urrealists. With his lifelong commitment to art, Daura once commented, \All I have ever wanted to do is to find a way to paint. I have painted. I have worked. I have given myself to my art. That is what I have wanted since my very early age... to be an artist, good or bad... that is what I am.\</dcterms:description>
+    <dcterms:subject>Virginia,Art,PAINTING</dcterms:subject>
+    <dcterms:type>Image</dcterms:type>
+    <dcterms:medium>Oil Canvas</dcterms:medium>
+    <dcterms:format>image/tiff</dcterms:format>
+    <dcterms:rights>http://rightsstatements.org/vocab/InC-EDU/1.0/</dcterms:rights>
+    <dcterms:provenance>Virginia Polytechnic Institute and tate University. University Libraries (Digital)</dcterms:provenance>
+    <dcterms:provenance>Virginia Polytechnic Institute and State University. University Libraries</dcterms:provenance>
+    <edm:isShownAt>https://digital.lib.vt.edu/archive/987cc7da</edm:isShownAt>
+    <edm:preview>https://img.cloud.lib.vt.edu/federated/TAU_ART/tiles/TAU_ART_000121_0001-1/full/179,/0/default.jpg</edm:preview>
+    <dcterms:creator>DAURA, PIERRE (United tates, 1896 (pain) - 1976 (United tates))</dcterms:creator>
+    <dcterms:date>2024-11-13</dcterms:date>
+</mdRecord>
