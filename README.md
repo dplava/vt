@@ -1,2 +1,2 @@
 # vt
-Virginia Tech repo of QDC metadata for DPLAVA
+Virginia Tech repository of QDC metadata for DPLAVA 
